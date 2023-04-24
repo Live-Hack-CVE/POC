@@ -367,6 +367,8 @@
     * [CVE-2023-0669-Analysis-yosef0x01.md](./databases/2023/database/CVE-2023-0669/CVE-2023-0669-Analysis-yosef0x01.md)
     * [CVE-2023-0669-0xf4n9x.md](./databases/2023/database/CVE-2023-0669/CVE-2023-0669-0xf4n9x.md)
     * [CVE-2023-0669-Griffin-01.md](./databases/2023/database/CVE-2023-0669/CVE-2023-0669-Griffin-01.md)
+  * [CVE-2023-0464](./databases/2023/database/CVE-2023-0464/README.md)
+    * [Openssl_1.1.1g_CVE-2023-0464-Trinadh465.md](./databases/2023/database/CVE-2023-0464/Openssl_1.1.1g_CVE-2023-0464-Trinadh465.md)
   * [CVE-2023-0315](./databases/2023/database/CVE-2023-0315/README.md)
     * [CVE-2023-0315-mhaskar.md](./databases/2023/database/CVE-2023-0315/CVE-2023-0315-mhaskar.md)
   * [CVE-2023-0297](./databases/2023/database/CVE-2023-0297/README.md)
