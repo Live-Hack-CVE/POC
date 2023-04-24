@@ -332,6 +332,8 @@
     * [Maldoc-Analysis-Abdibimantara.md](./databases/2023/database/CVE-2023-2017/Maldoc-Analysis-Abdibimantara.md)
   * [CVE-2023-1767](./databases/2023/database/CVE-2023-1767/README.md)
     * [CVE-2023-1767-weizman.md](./databases/2023/database/CVE-2023-1767/CVE-2023-1767-weizman.md)
+  * [CVE-2023-1671](./databases/2023/database/CVE-2023-1671/README.md)
+    * [CVE-2023-1671-ohnonoyesyes.md](./databases/2023/database/CVE-2023-1671/CVE-2023-1671-ohnonoyesyes.md)
   * [CVE-2023-1665](./databases/2023/database/CVE-2023-1665/README.md)
     * [CVE-2023-1665-0xsu3ks.md](./databases/2023/database/CVE-2023-1665/CVE-2023-1665-0xsu3ks.md)
   * [CVE-2023-1454](./databases/2023/database/CVE-2023-1454/README.md)
