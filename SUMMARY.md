@@ -796,6 +796,8 @@
     * [cve-2022-41032-ethomson.md](./databases/2022/database/CVE-2022-41032/cve-2022-41032-ethomson.md)
   * [CVE-2022-40881](./databases/2022/database/CVE-2022-40881/README.md)
     * [CVE-2022-40881-yilin1203.md](./databases/2022/database/CVE-2022-40881/CVE-2022-40881-yilin1203.md)
+  * [CVE-2022-40799](./databases/2022/database/CVE-2022-40799/README.md)
+    * [CVE-2022-40799-rtfmkiesel.md](./databases/2022/database/CVE-2022-40799/CVE-2022-40799-rtfmkiesel.md)
   * [CVE-2022-40769](./databases/2022/database/CVE-2022-40769/README.md)
     * [CVE-2022-40769-PLSRcoin.md](./databases/2022/database/CVE-2022-40769/CVE-2022-40769-PLSRcoin.md)
   * [CVE-2022-40687](./databases/2022/database/CVE-2022-40687/README.md)
