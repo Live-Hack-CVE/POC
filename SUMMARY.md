@@ -4634,6 +4634,8 @@
 * [Database](./databases/2021/database)
   * [CVE-2021-46702](./databases/2021/database/CVE-2021-46702/README.md)
     * [CVE-2021-46702-malakkf.md](./databases/2021/database/CVE-2021-46702/CVE-2021-46702-malakkf.md)
+  * [CVE-2021-46461](./databases/2021/database/CVE-2021-46461/README.md)
+    * [discord-rce-exploit-poc-2023-04-puppypete99.md](./databases/2021/database/CVE-2021-46461/discord-rce-exploit-poc-2023-04-puppypete99.md)
   * [CVE-2021-46422](./databases/2021/database/CVE-2021-46422/README.md)
     * [CVE-RCE-Awei507.md](./databases/2021/database/CVE-2021-46422/CVE-RCE-Awei507.md)
     * [CVE-2021-46422-latings.md](./databases/2021/database/CVE-2021-46422/CVE-2021-46422-latings.md)
