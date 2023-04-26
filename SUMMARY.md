@@ -234,6 +234,7 @@
     * [POC_CVE-2023-21839-houqe.md](./databases/2023/database/CVE-2023-21839/POC_CVE-2023-21839-houqe.md)
     * [Weblogic-gobysec.md](./databases/2023/database/CVE-2023-21839/Weblogic-gobysec.md)
     * [CVE-2023-21839-Firebasky.md](./databases/2023/database/CVE-2023-21839/CVE-2023-21839-Firebasky.md)
+    * [ms-word-rce-0day-poc-2023-octosec45.md](./databases/2023/database/CVE-2023-21839/ms-word-rce-0day-poc-2023-octosec45.md)
     * [CVE-2023-21839-hacats.md](./databases/2023/database/CVE-2023-21839/CVE-2023-21839-hacats.md)
     * [CVE-2023-21839-fakenews2025.md](./databases/2023/database/CVE-2023-21839/CVE-2023-21839-fakenews2025.md)
     * [CVE-2023-21839-4ra1n.md](./databases/2023/database/CVE-2023-21839/CVE-2023-21839-4ra1n.md)
