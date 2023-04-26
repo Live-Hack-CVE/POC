@@ -84,6 +84,8 @@
     * [CVE-2023-26604-Zenmovie.md](./databases/2023/database/CVE-2023-26604/CVE-2023-26604-Zenmovie.md)
   * [CVE-2023-26262](./databases/2023/database/CVE-2023-26262/README.md)
     * [CVE-2023-26262-istern.md](./databases/2023/database/CVE-2023-26262/CVE-2023-26262-istern.md)
+  * [CVE-2023-25690](./databases/2023/database/CVE-2023-25690/README.md)
+    * [linux-apache-fix-mod_rewrite-spaceInURL-tbachvarova.md](./databases/2023/database/CVE-2023-25690/linux-apache-fix-mod_rewrite-spaceInURL-tbachvarova.md)
   * [CVE-2023-25263](./databases/2023/database/CVE-2023-25263/README.md)
     * [CVE-2023-25263-trustcves.md](./databases/2023/database/CVE-2023-25263/CVE-2023-25263-trustcves.md)
   * [CVE-2023-25262](./databases/2023/database/CVE-2023-25262/README.md)
