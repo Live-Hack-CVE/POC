@@ -2733,6 +2733,8 @@
   * [CVE-2022-4309](./databases/2022/database/CVE-2022-4309/README.md)
     * [Mediatrix-CVE-2022-43096-ProxyStaffy.md](./databases/2022/database/CVE-2022-4309/Mediatrix-CVE-2022-43096-ProxyStaffy.md)
     * [CVE-2022-43097-nibin-m.md](./databases/2022/database/CVE-2022-4309/CVE-2022-43097-nibin-m.md)
+  * [CVE-2022-4304](./databases/2022/database/CVE-2022-4304/README.md)
+    * [Openssl-1.1.1g_CVE-2022-4304-Trinadh465.md](./databases/2022/database/CVE-2022-4304/Openssl-1.1.1g_CVE-2022-4304-Trinadh465.md)
   * [CVE-2022-4289](./databases/2022/database/CVE-2022-4289/README.md)
     * [kernel_v4.19.72_CVE-2022-42896_old-hshivhare67.md](./databases/2022/database/CVE-2022-4289/kernel_v4.19.72_CVE-2022-42896_old-hshivhare67.md)
     * [linux-4.1.15_CVE-2022-42896-nidhi7598.md](./databases/2022/database/CVE-2022-4289/linux-4.1.15_CVE-2022-42896-nidhi7598.md)
