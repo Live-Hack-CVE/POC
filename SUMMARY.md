@@ -2684,6 +2684,8 @@
     * [CVE-2022-44721-CsFalconUninstaller-gmh5225.md](./databases/2022/database/CVE-2022-4472/CVE-2022-44721-CsFalconUninstaller-gmh5225.md)
   * [CVE-2022-4466](./databases/2022/database/CVE-2022-4466/README.md)
     * [CVE-2022-44666-j00sean.md](./databases/2022/database/CVE-2022-4466/CVE-2022-44666-j00sean.md)
+  * [CVE-2022-4450](./databases/2022/database/CVE-2022-4450/README.md)
+    * [OPENSSL_1.1.1g_G3_CVE-2022-4450-nidhi7598.md](./databases/2022/database/CVE-2022-4450/OPENSSL_1.1.1g_G3_CVE-2022-4450-nidhi7598.md)
   * [CVE-2022-4431](./databases/2022/database/CVE-2022-4431/README.md)
     * [CVE-2022-44311-DesmondSanctity.md](./databases/2022/database/CVE-2022-4431/CVE-2022-44311-DesmondSanctity.md)
     * [CVE-2022-44311-Halcy0nic.md](./databases/2022/database/CVE-2022-4431/CVE-2022-44311-Halcy0nic.md)
