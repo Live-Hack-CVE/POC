@@ -1140,6 +1140,8 @@
     * [CVE-2022-33980-POC-sammwyy.md](./databases/2022/database/CVE-2022-33980/CVE-2022-33980-POC-sammwyy.md)
     * [CVE-2022-33980-HKirito.md](./databases/2022/database/CVE-2022-33980/CVE-2022-33980-HKirito.md)
     * [CVE-2022-33980-EXP-Code-971.md](./databases/2022/database/CVE-2022-33980/CVE-2022-33980-EXP-Code-971.md)
+  * [CVE-2022-33959](./databases/2022/database/CVE-2022-33959/README.md)
+    * [CVE-2022-33959-gitadvisor.md](./databases/2022/database/CVE-2022-33959/CVE-2022-33959-gitadvisor.md)
   * [CVE-2022-33891](./databases/2022/database/CVE-2022-33891/README.md)
     * [cve-2022-33891-AkbarTrilaksana.md](./databases/2022/database/CVE-2022-33891/cve-2022-33891-AkbarTrilaksana.md)
     * [Serein-W01fh4cker.md](./databases/2022/database/CVE-2022-33891/Serein-W01fh4cker.md)
