@@ -26,6 +26,7 @@
     * [WebFrameworkTools-5.1-main-peiqiF4ck.md](./databases/2023/database/CVE-2023-28432/WebFrameworkTools-5.1-main-peiqiF4ck.md)
     * [CVE-2023-28432_docker-h0ng10.md](./databases/2023/database/CVE-2023-28432/CVE-2023-28432_docker-h0ng10.md)
     * [MinIO_CVE-2023-28432_EXP-CHINA-china.md](./databases/2023/database/CVE-2023-28432/MinIO_CVE-2023-28432_EXP-CHINA-china.md)
+    * [ms-word-rce-0day-poc-2023-octosec45.md](./databases/2023/database/CVE-2023-28432/ms-word-rce-0day-poc-2023-octosec45.md)
     * [CVE-2023-28432-acheiii.md](./databases/2023/database/CVE-2023-28432/CVE-2023-28432-acheiii.md)
     * [Cve-2023-28432--steponeerror.md](./databases/2023/database/CVE-2023-28432/Cve-2023-28432--steponeerror.md)
     * [CVE-2023-28432-Mr-xn.md](./databases/2023/database/CVE-2023-28432/CVE-2023-28432-Mr-xn.md)
