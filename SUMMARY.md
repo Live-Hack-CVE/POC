@@ -424,6 +424,7 @@
     * [CVE-2022-47966-Inplex-sys.md](./databases/2022/database/CVE-2022-47966/CVE-2022-47966-Inplex-sys.md)
     * [CVE-2022-47966_checker-ACE-Responder.md](./databases/2022/database/CVE-2022-47966/CVE-2022-47966_checker-ACE-Responder.md)
     * [CVE-2022-47966-Scan-vonahisec.md](./databases/2022/database/CVE-2022-47966/CVE-2022-47966-Scan-vonahisec.md)
+    * [discord-rce-exploit-poc-2023-04-puppypete99.md](./databases/2022/database/CVE-2022-47966/discord-rce-exploit-poc-2023-04-puppypete99.md)
     * [CVE-2022-47966-horizon3ai.md](./databases/2022/database/CVE-2022-47966/CVE-2022-47966-horizon3ai.md)
     * [PoC-for-ME-SAML-Vulnerability-shameem-testing.md](./databases/2022/database/CVE-2022-47966/PoC-for-ME-SAML-Vulnerability-shameem-testing.md)
   * [CVE-2022-47952](./databases/2022/database/CVE-2022-47952/README.md)
