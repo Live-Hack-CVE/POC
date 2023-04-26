@@ -122,3 +122,5 @@ All the POC for the CVE of the year
 * [CVE-2023-25690](https://zeste.alice-snow.ru/2023/database/cve-2023-25690)
 * [CVE-2023-22621](https://zeste.alice-snow.ru/2023/database/cve-2023-22621)
 * [CVE-2023-22894](https://zeste.alice-snow.ru/2023/database/cve-2023-22894)
+* [CVE-2023-27524](https://zeste.alice-snow.ru/2023/database/cve-2023-27524)
+* [CVE-2023-0045](https://zeste.alice-snow.ru/2023/database/cve-2023-0045)

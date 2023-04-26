@@ -61,6 +61,8 @@
   * [CVE-2023-27532](./databases/2023/database/CVE-2023-27532/README.md)
     * [CVE-2023-27532-sfewer-r7.md](./databases/2023/database/CVE-2023-27532/CVE-2023-27532-sfewer-r7.md)
     * [CVE-2023-27532-horizon3ai.md](./databases/2023/database/CVE-2023-27532/CVE-2023-27532-horizon3ai.md)
+  * [CVE-2023-27524](./databases/2023/database/CVE-2023-27524/README.md)
+    * [CVE-2023-27524-horizon3ai.md](./databases/2023/database/CVE-2023-27524/CVE-2023-27524-horizon3ai.md)
   * [CVE-2023-27350](./databases/2023/database/CVE-2023-27350/README.md)
     * [CVE-2023-27350-POC-MaanVader.md](./databases/2023/database/CVE-2023-27350/CVE-2023-27350-POC-MaanVader.md)
     * [CVE-2023-27350-horizon3ai.md](./databases/2023/database/CVE-2023-27350/CVE-2023-27350-horizon3ai.md)
@@ -311,6 +313,8 @@
     * [frameworks_base_AOSP_10_r33_CVE-2023-20921-nidhi7598.md](./databases/2023/database/CVE-2023-20921/frameworks_base_AOSP_10_r33_CVE-2023-20921-nidhi7598.md)
   * [CVE-2023-20860](./databases/2023/database/CVE-2023-20860/README.md)
     * [CVE-2023-20860-limo520.md](./databases/2023/database/CVE-2023-20860/CVE-2023-20860-limo520.md)
+  * [CVE-2023-2294](./databases/2023/database/CVE-2023-2294/README.md)
+    * [CVE-2023-22941-eduardosantos1989.md](./databases/2023/database/CVE-2023-2294/CVE-2023-22941-eduardosantos1989.md)
   * [CVE-2023-2243](./databases/2023/database/CVE-2023-2243/README.md)
     * [CVE-2023-22432-aeyesec.md](./databases/2023/database/CVE-2023-2243/CVE-2023-22432-aeyesec.md)
   * [CVE-2023-2176](./databases/2023/database/CVE-2023-2176/README.md)
@@ -413,6 +417,9 @@
     * [cve_2023_0110-emotest1.md](./databases/2023/database/CVE-2023-0110/cve_2023_0110-emotest1.md)
   * [CVE-2023-0050](./databases/2023/database/CVE-2023-0050/README.md)
     * [CVE-2023-0050-wh-gov.md](./databases/2023/database/CVE-2023-0050/CVE-2023-0050-wh-gov.md)
+  * [CVE-2023-0045](./databases/2023/database/CVE-2023-0045/README.md)
+    * [CVE-2023-0045-ASkyeye.md](./databases/2023/database/CVE-2023-0045/CVE-2023-0045-ASkyeye.md)
+    * [CVE-2023-0045-es0j.md](./databases/2023/database/CVE-2023-0045/CVE-2023-0045-es0j.md)
 
 
 ## 2022
