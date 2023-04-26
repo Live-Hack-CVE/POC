@@ -398,6 +398,7 @@
     * [OPENSSL_1.1.1g_G3_CVE-2023-0215-nidhi7598.md](./databases/2023/database/CVE-2023-0215/OPENSSL_1.1.1g_G3_CVE-2023-0215-nidhi7598.md)
     * [OPENSSL_1.0.2_G2.5_CVE-2023-0215-nidhi7598.md](./databases/2023/database/CVE-2023-0215/OPENSSL_1.0.2_G2.5_CVE-2023-0215-nidhi7598.md)
   * [CVE-2023-0179](./databases/2023/database/CVE-2023-0179/README.md)
+    * [discord-rce-exploit-poc-2023-04-puppypete99.md](./databases/2023/database/CVE-2023-0179/discord-rce-exploit-poc-2023-04-puppypete99.md)
     * [CVE-2023-0179-PoC-TurtleARM.md](./databases/2023/database/CVE-2023-0179/CVE-2023-0179-PoC-TurtleARM.md)
     * [CVE-2023-0179-PoC-H4K6.md](./databases/2023/database/CVE-2023-0179/CVE-2023-0179-PoC-H4K6.md)
   * [CVE-2023-0110](./databases/2023/database/CVE-2023-0110/README.md)
