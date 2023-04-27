@@ -4491,6 +4491,7 @@
     * [CVE-2022-0847-DirtyPipe--edsonjt81.md](./databases/2022/database/CVE-2022-0847/CVE-2022-0847-DirtyPipe--edsonjt81.md)
     * [dirtyPipe-automaticRoot-nanaao.md](./databases/2022/database/CVE-2022-0847/dirtyPipe-automaticRoot-nanaao.md)
     * [CVE-2022-0847-puckiestyle.md](./databases/2022/database/CVE-2022-0847/CVE-2022-0847-puckiestyle.md)
+    * [CVE-2022-0847-container-escape-JlSakuya.md](./databases/2022/database/CVE-2022-0847/CVE-2022-0847-container-escape-JlSakuya.md)
     * [debian11-dirty_pipe-patcher-ih3na.md](./databases/2022/database/CVE-2022-0847/debian11-dirty_pipe-patcher-ih3na.md)
     * [ps-lab-cve-2022-0847-Turzum.md](./databases/2022/database/CVE-2022-0847/ps-lab-cve-2022-0847-Turzum.md)
     * [dirty-pipe-0xIronGoat.md](./databases/2022/database/CVE-2022-0847/dirty-pipe-0xIronGoat.md)
