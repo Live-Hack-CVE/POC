@@ -5387,6 +5387,7 @@
     * [cve-2021-41773-twseptian.md](./databases/2021/database/CVE-2021-41773/cve-2021-41773-twseptian.md)
     * [CVE-2021-41773-12345qwert123456.md](./databases/2021/database/CVE-2021-41773/CVE-2021-41773-12345qwert123456.md)
     * [CVE-2021-41773-BlueTeamSteve.md](./databases/2021/database/CVE-2021-41773/CVE-2021-41773-BlueTeamSteve.md)
+    * [Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution-blackn0te.md](./databases/2021/database/CVE-2021-41773/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution-blackn0te.md)
     * [CVE-2021-41773-scarmandef.md](./databases/2021/database/CVE-2021-41773/CVE-2021-41773-scarmandef.md)
     * [CVE-2021-41773-Fa1c0n35.md](./databases/2021/database/CVE-2021-41773/CVE-2021-41773-Fa1c0n35.md)
     * [CVE-2021-41773-exploiter-norrig.md](./databases/2021/database/CVE-2021-41773/CVE-2021-41773-exploiter-norrig.md)
