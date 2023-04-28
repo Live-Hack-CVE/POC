@@ -348,6 +348,7 @@
   * [CVE-2023-2092](./databases/2023/database/CVE-2023-2092/README.md)
     * [frameworks_base_AOSP_10_r33_CVE-2023-20921-nidhi7598.md](./databases/2023/database/CVE-2023-2092/frameworks_base_AOSP_10_r33_CVE-2023-20921-nidhi7598.md)
   * [CVE-2023-2033](./databases/2023/database/CVE-2023-2033/README.md)
+    * [CVE-2023-2033-Analysis-sandumjacob.md](./databases/2023/database/CVE-2023-2033/CVE-2023-2033-Analysis-sandumjacob.md)
     * [CVE-2023-2033-insoxin.md](./databases/2023/database/CVE-2023-2033/CVE-2023-2033-insoxin.md)
   * [CVE-2023-2021](./databases/2023/database/CVE-2023-2021/README.md)
     * [Feb2023-CVE-2021-21974-OSINT-n2x4.md](./databases/2023/database/CVE-2023-2021/Feb2023-CVE-2021-21974-OSINT-n2x4.md)
