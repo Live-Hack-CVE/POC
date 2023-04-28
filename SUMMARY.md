@@ -1590,6 +1590,7 @@
     * [CVE-2022-28381_PoC-DShankle.md](./databases/2022/database/CVE-2022-28381/CVE-2022-28381_PoC-DShankle.md)
   * [CVE-2022-28368](./databases/2022/database/CVE-2022-28368/README.md)
     * [CVE-2022-28368-rvizx.md](./databases/2022/database/CVE-2022-28368/CVE-2022-28368-rvizx.md)
+    * [CVE-2022-28368-handler-That-Guy-Steve.md](./databases/2022/database/CVE-2022-28368/CVE-2022-28368-handler-That-Guy-Steve.md)
   * [CVE-2022-28346](./databases/2022/database/CVE-2022-28346/README.md)
     * [CVE-2022-28346-vincentinttsh.md](./databases/2022/database/CVE-2022-28346/CVE-2022-28346-vincentinttsh.md)
     * [CVE-2022-28346-YouGina.md](./databases/2022/database/CVE-2022-28346/CVE-2022-28346-YouGina.md)
