@@ -106,6 +106,7 @@
   * [CVE-2023-25194](./databases/2023/database/CVE-2023-25194/README.md)
     * [CVE-2023-25194-ohnonoyesyes.md](./databases/2023/database/CVE-2023-25194/CVE-2023-25194-ohnonoyesyes.md)
   * [CVE-2023-25136](./databases/2023/database/CVE-2023-25136/README.md)
+    * [CVE-2023-25136-nhakobyan685.md](./databases/2023/database/CVE-2023-25136/CVE-2023-25136-nhakobyan685.md)
     * [CVE-2023-25136-ticofookfook.md](./databases/2023/database/CVE-2023-25136/CVE-2023-25136-ticofookfook.md)
     * [CVE-2023-25136-Christbowel.md](./databases/2023/database/CVE-2023-25136/CVE-2023-25136-Christbowel.md)
     * [CVE-2023-25136-adhikara13.md](./databases/2023/database/CVE-2023-25136/CVE-2023-25136-adhikara13.md)
