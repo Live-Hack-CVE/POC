@@ -932,6 +932,7 @@
     * [cobaltstrike4.5_cdf-1-zeoday.md](./databases/2022/database/CVE-2022-39197/cobaltstrike4.5_cdf-1-zeoday.md)
     * [CVE-2022-39197-adeljck.md](./databases/2022/database/CVE-2022-39197/CVE-2022-39197-adeljck.md)
     * [cobaltstrike4.5_cdf-ginipropro.md](./databases/2022/database/CVE-2022-39197/cobaltstrike4.5_cdf-ginipropro.md)
+    * [pig_CS4.4-xiao-zhu-zhu.md](./databases/2022/database/CVE-2022-39197/pig_CS4.4-xiao-zhu-zhu.md)
     * [cobaltstrike4.5_cdf-shen771.md](./databases/2022/database/CVE-2022-39197/cobaltstrike4.5_cdf-shen771.md)
     * [CVE-2022-39197-POC-xzajyjs.md](./databases/2022/database/CVE-2022-39197/CVE-2022-39197-POC-xzajyjs.md)
     * [CSPOC-yqcs.md](./databases/2022/database/CVE-2022-39197/CSPOC-yqcs.md)
