@@ -8697,6 +8697,7 @@
     * [CVE-2021-1056-pokerfaceSad.md](./databases/2021/database/CVE-2021-1056/CVE-2021-1056-pokerfaceSad.md)
   * [CVE-2021-1008](./databases/2021/database/CVE-2021-1008/README.md)
     * [CVE-2021-10086-xiaoyun-1.md](./databases/2021/database/CVE-2021-1008/CVE-2021-10086-xiaoyun-1.md)
+    * [CVE-2021-10086-AK-blank.md](./databases/2021/database/CVE-2021-1008/CVE-2021-10086-AK-blank.md)
   * [CVE-2021-0963](./databases/2021/database/CVE-2021-0963/README.md)
     * [packages_apps_KeyChain_AOSP10_r33_CVE-2021-0963-Trinadh465.md](./databases/2021/database/CVE-2021-0963/packages_apps_KeyChain_AOSP10_r33_CVE-2021-0963-Trinadh465.md)
   * [CVE-2021-0954](./databases/2021/database/CVE-2021-0954/README.md)
