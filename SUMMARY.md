@@ -4610,6 +4610,7 @@
     * [traitor-liamg.md](./databases/2022/database/CVE-2022-0847/traitor-liamg.md)
     * [CVE-2022-0847-DirtyPipe-Exploits-eduquintanilha.md](./databases/2022/database/CVE-2022-0847/CVE-2022-0847-DirtyPipe-Exploits-eduquintanilha.md)
     * [Dirtypipe-exploit-nanaao.md](./databases/2022/database/CVE-2022-0847/Dirtypipe-exploit-nanaao.md)
+    * [cve-2022-0847-jonathanbest7.md](./databases/2022/database/CVE-2022-0847/cve-2022-0847-jonathanbest7.md)
     * [CVE-2022-0847-Container-Escape-greenhandatsjtu.md](./databases/2022/database/CVE-2022-0847/CVE-2022-0847-Container-Escape-greenhandatsjtu.md)
     * [Dirty-Pipe-edr1412.md](./databases/2022/database/CVE-2022-0847/Dirty-Pipe-edr1412.md)
     * [CVE-2022-0847-gyaansastra.md](./databases/2022/database/CVE-2022-0847/CVE-2022-0847-gyaansastra.md)
