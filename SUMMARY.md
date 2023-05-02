@@ -21889,6 +21889,7 @@
   * [CVE-1999-1053](./databases/1999/database/CVE-1999-1053/README.md)
     * [CVE-1999-1053-PoC-siunam321.md](./databases/1999/database/CVE-1999-1053/CVE-1999-1053-PoC-siunam321.md)
   * [CVE-1999-1003](./databases/1999/database/CVE-1999-1003/README.md)
+    * [CVE-2019-1003000-and-CVE-2018-1999002-Pre-Auth-RCE-Jenkins-slowmistio.md](./databases/1999/database/CVE-1999-1003/CVE-2019-1003000-and-CVE-2018-1999002-Pre-Auth-RCE-Jenkins-slowmistio.md)
     * [CVE-2019-1003000-and-CVE-2018-1999002-Pre-Auth-RCE-Jenkins-0xtavian.md](./databases/1999/database/CVE-1999-1003/CVE-2019-1003000-and-CVE-2018-1999002-Pre-Auth-RCE-Jenkins-0xtavian.md)
   * [CVE-1999-0532](./databases/1999/database/CVE-1999-0532/README.md)
     * [Bulk_CVE-1999-0532_Scanner-websecnl.md](./databases/1999/database/CVE-1999-0532/Bulk_CVE-1999-0532_Scanner-websecnl.md)
