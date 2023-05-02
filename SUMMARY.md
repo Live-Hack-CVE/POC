@@ -5586,6 +5586,8 @@
     * [PewSWITCH-0xInfection.md](./databases/2021/database/CVE-2021-41157/PewSWITCH-0xInfection.md)
   * [CVE-2021-41117](./databases/2021/database/CVE-2021-41117/README.md)
     * [keypairvuln-badkeys.md](./databases/2021/database/CVE-2021-41117/keypairvuln-badkeys.md)
+  * [CVE-2021-41091](./databases/2021/database/CVE-2021-41091/README.md)
+    * [CVE-2021-41091-UncleJ4ck.md](./databases/2021/database/CVE-2021-41091/CVE-2021-41091-UncleJ4ck.md)
   * [CVE-2021-41090](./databases/2021/database/CVE-2021-41090/README.md)
     * [grafana_lfi-0xAgun.md](./databases/2021/database/CVE-2021-41090/grafana_lfi-0xAgun.md)
   * [CVE-2021-41081](./databases/2021/database/CVE-2021-41081/README.md)
