@@ -8038,6 +8038,7 @@
     * [Laravel-8.4.2-rce-CVE-2021-3129-FunPhishing.md](./databases/2021/database/CVE-2021-3129/Laravel-8.4.2-rce-CVE-2021-3129-FunPhishing.md)
     * [CVE-2021-3129-0nion1.md](./databases/2021/database/CVE-2021-3129/CVE-2021-3129-0nion1.md)
     * [laravel-CVE-2021-3129-EXP-idea-oss.md](./databases/2021/database/CVE-2021-3129/laravel-CVE-2021-3129-EXP-idea-oss.md)
+    * [CVE-2021-3129-Zoo1sondv.md](./databases/2021/database/CVE-2021-3129/CVE-2021-3129-Zoo1sondv.md)
     * [CVE-2021-3129-SNCKER.md](./databases/2021/database/CVE-2021-3129/CVE-2021-3129-SNCKER.md)
     * [CVE-2021-3129-keyuan15.md](./databases/2021/database/CVE-2021-3129/CVE-2021-3129-keyuan15.md)
     * [CVE-2021-3129_exploit-nth347.md](./databases/2021/database/CVE-2021-3129/CVE-2021-3129_exploit-nth347.md)
