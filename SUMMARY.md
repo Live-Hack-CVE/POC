@@ -7530,6 +7530,7 @@
     * [pwnkit-exploit-PeterGottesman.md](./databases/2021/database/CVE-2021-4034/pwnkit-exploit-PeterGottesman.md)
     * [CVE-2021-4034-A1vinSmith.md](./databases/2021/database/CVE-2021-4034/CVE-2021-4034-A1vinSmith.md)
     * [CVE-2021-4034-nobelh.md](./databases/2021/database/CVE-2021-4034/CVE-2021-4034-nobelh.md)
+    * [CVE-2021-4034-Rust-deoxykev.md](./databases/2021/database/CVE-2021-4034/CVE-2021-4034-Rust-deoxykev.md)
     * [pwnKit-drapl0n.md](./databases/2021/database/CVE-2021-4034/pwnKit-drapl0n.md)
     * [CVE-2021-4034-dadvlingd.md](./databases/2021/database/CVE-2021-4034/CVE-2021-4034-dadvlingd.md)
     * [CVE-2021-4034-arthepsy.md](./databases/2021/database/CVE-2021-4034/CVE-2021-4034-arthepsy.md)
