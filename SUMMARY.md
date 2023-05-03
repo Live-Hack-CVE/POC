@@ -2721,6 +2721,8 @@
     * [CVE-2022-47102-sudoninja-noob.md](./databases/2022/database/CVE-2022-4710/CVE-2022-47102-sudoninja-noob.md)
   * [CVE-2022-4683](./databases/2022/database/CVE-2022-4683/README.md)
     * [CVE-2022-46836_remote_code_execution-JacobEbben.md](./databases/2022/database/CVE-2022-4683/CVE-2022-46836_remote_code_execution-JacobEbben.md)
+  * [CVE-2022-4671](./databases/2022/database/CVE-2022-4671/README.md)
+    * [cve-2022-46718-leaky-location-biscuitehh.md](./databases/2022/database/CVE-2022-4671/cve-2022-46718-leaky-location-biscuitehh.md)
   * [CVE-2022-4668](./databases/2022/database/CVE-2022-4668/README.md)
     * [CVE-2022-46689-spinfal.md](./databases/2022/database/CVE-2022-4668/CVE-2022-46689-spinfal.md)
   * [CVE-2022-4663](./databases/2022/database/CVE-2022-4663/README.md)
