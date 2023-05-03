@@ -4959,6 +4959,7 @@
     * [log4shell-hozyx.md](./databases/2021/database/CVE-2021-45046/log4shell-hozyx.md)
     * [CVE-2021-45046-tejas-nagchandi.md](./databases/2021/database/CVE-2021-45046/CVE-2021-45046-tejas-nagchandi.md)
     * [log4j2_vul_local_scanner-lijiejie.md](./databases/2021/database/CVE-2021-45046/log4j2_vul_local_scanner-lijiejie.md)
+    * [signal-zeroday-exploit-researchkendra91.md](./databases/2021/database/CVE-2021-45046/signal-zeroday-exploit-researchkendra91.md)
     * [log4j-finder-fox-it.md](./databases/2021/database/CVE-2021-45046/log4j-finder-fox-it.md)
     * [Log4Shell-Sandbox-Signature-CaptanMoss.md](./databases/2021/database/CVE-2021-45046/Log4Shell-Sandbox-Signature-CaptanMoss.md)
     * [JndiLookupRemoval-nagten.md](./databases/2021/database/CVE-2021-45046/JndiLookupRemoval-nagten.md)
