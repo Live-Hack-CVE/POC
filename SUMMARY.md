@@ -1634,6 +1634,8 @@
     * [CVE-2022-29170-yijikeji.md](./databases/2022/database/CVE-2022-29170/CVE-2022-29170-yijikeji.md)
   * [CVE-2022-29154](./databases/2022/database/CVE-2022-29154/README.md)
     * [CVE-2022-29154-EgeBalci.md](./databases/2022/database/CVE-2022-29154/CVE-2022-29154-EgeBalci.md)
+  * [CVE-2022-29127](./databases/2022/database/CVE-2022-29127/README.md)
+    * [bitlocker-attacks-Wack0.md](./databases/2022/database/CVE-2022-29127/bitlocker-attacks-Wack0.md)
   * [CVE-2022-29078](./databases/2022/database/CVE-2022-29078/README.md)
     * [CVE-2022-29078-miko550.md](./databases/2022/database/CVE-2022-29078/CVE-2022-29078-miko550.md)
   * [CVE-2022-29072](./databases/2022/database/CVE-2022-29072/README.md)
