@@ -995,6 +995,7 @@
     * [CVE-2022-39952-horizon3ai.md](./databases/2022/database/CVE-2022-39952/CVE-2022-39952-horizon3ai.md)
     * [nmap-hackingyseguridad.md](./databases/2022/database/CVE-2022-39952/nmap-hackingyseguridad.md)
     * [CVE-2022-39952-Chocapikk.md](./databases/2022/database/CVE-2022-39952/CVE-2022-39952-Chocapikk.md)
+    * [discord-rce-exploit-poc-mayflowers54.md](./databases/2022/database/CVE-2022-39952/discord-rce-exploit-poc-mayflowers54.md)
   * [CVE-2022-39838](./databases/2022/database/CVE-2022-39838/README.md)
     * [CVE-2022-39838-jet-pentest.md](./databases/2022/database/CVE-2022-39838/CVE-2022-39838-jet-pentest.md)
   * [CVE-2022-39802](./databases/2022/database/CVE-2022-39802/README.md)
