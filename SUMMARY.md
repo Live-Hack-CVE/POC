@@ -904,6 +904,7 @@
   * [CVE-2022-41080](./databases/2022/database/CVE-2022-41080/README.md)
     * [OWASSRF-CVE-2022-41082-POC-balki97.md](./databases/2022/database/CVE-2022-41080/OWASSRF-CVE-2022-41082-POC-balki97.md)
     * [CVE-2022-41080-ohnonoyesyes.md](./databases/2022/database/CVE-2022-41080/CVE-2022-41080-ohnonoyesyes.md)
+    * [discord-rce-exploit-poc-mayflowers54.md](./databases/2022/database/CVE-2022-41080/discord-rce-exploit-poc-mayflowers54.md)
   * [CVE-2022-41076](./databases/2022/database/CVE-2022-41076/README.md)
     * [OWASSRF-CVE-2022-41082-POC-balki97.md](./databases/2022/database/CVE-2022-41076/OWASSRF-CVE-2022-41082-POC-balki97.md)
     * [CVE-2022-41076-5l1v3r1.md](./databases/2022/database/CVE-2022-41076/CVE-2022-41076-5l1v3r1.md)
