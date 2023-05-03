@@ -2488,6 +2488,8 @@
     * [Sonic_CVE-2022-22274_poc-pwneddr.md](./databases/2022/database/CVE-2022-22274/Sonic_CVE-2022-22274_poc-pwneddr.md)
   * [CVE-2022-22063](./databases/2022/database/CVE-2022-22063/README.md)
     * [CVE-2022-22063-msm8916-mainline.md](./databases/2022/database/CVE-2022-22063/CVE-2022-22063-msm8916-mainline.md)
+  * [CVE-2022-22048](./databases/2022/database/CVE-2022-22048/README.md)
+    * [bitlocker-attacks-Wack0.md](./databases/2022/database/CVE-2022-22048/bitlocker-attacks-Wack0.md)
   * [CVE-2022-22029](./databases/2022/database/CVE-2022-22029/README.md)
     * [CVE-2022-22029-NFS-Server--mchoudhary15.md](./databases/2022/database/CVE-2022-22029/CVE-2022-22029-NFS-Server--mchoudhary15.md)
   * [CVE-2022-22005](./databases/2022/database/CVE-2022-22005/README.md)
