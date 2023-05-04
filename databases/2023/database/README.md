@@ -135,3 +135,4 @@ All the POC for the CVE of the year
 * [CVE-2023-21563](https://www.alice-snow.ru/2023/database/cve-2023-21563)
 * [CVE-2023-21706](https://www.alice-snow.ru/2023/database/cve-2023-21706)
 * [CVE-2023-21707](https://www.alice-snow.ru/2023/database/cve-2023-21707)
+* [CVE-2023-23376](https://www.alice-snow.ru/2023/database/cve-2023-23376)

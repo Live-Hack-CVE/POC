@@ -218,6 +218,8 @@
     * [CVE-2023-23397-j0eyv.md](./databases/2023/database/CVE-2023-23397/CVE-2023-23397-j0eyv.md)
   * [CVE-2023-23396](./databases/2023/database/CVE-2023-23396/README.md)
     * [CVE-2023-23396-LucaBarile.md](./databases/2023/database/CVE-2023-23396/CVE-2023-23396-LucaBarile.md)
+  * [CVE-2023-23376](./databases/2023/database/CVE-2023-23376/README.md)
+    * [discord-rce-exploit-poc-mayflowers54.md](./databases/2023/database/CVE-2023-23376/discord-rce-exploit-poc-mayflowers54.md)
   * [CVE-2023-23333](./databases/2023/database/CVE-2023-23333/README.md)
     * [CVE-2023-23333-Timorlover.md](./databases/2023/database/CVE-2023-23333/CVE-2023-23333-Timorlover.md)
   * [CVE-2023-23279](./databases/2023/database/CVE-2023-23279/README.md)
