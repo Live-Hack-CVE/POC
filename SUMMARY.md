@@ -834,6 +834,7 @@
     * [cve-2022-42889-text4shell-docker-dgor2023.md](./databases/2022/database/CVE-2022-42889/cve-2022-42889-text4shell-docker-dgor2023.md)
     * [text4shellburpscanner-f0ng.md](./databases/2022/database/CVE-2022-42889/text4shellburpscanner-f0ng.md)
     * [commons-text-goat-tulhan.md](./databases/2022/database/CVE-2022-42889/commons-text-goat-tulhan.md)
+    * [cve-2022-42889-text4shell-RSA-Demo.md](./databases/2022/database/CVE-2022-42889/cve-2022-42889-text4shell-RSA-Demo.md)
     * [text4shell-hotblac.md](./databases/2022/database/CVE-2022-42889/text4shell-hotblac.md)
     * [CVE-2022-42889-neerazz.md](./databases/2022/database/CVE-2022-42889/CVE-2022-42889-neerazz.md)
     * [CVE-2022-42889-Text4Shell-Exploit-POC-rhitikwadhvana.md](./databases/2022/database/CVE-2022-42889/CVE-2022-42889-Text4Shell-Exploit-POC-rhitikwadhvana.md)
