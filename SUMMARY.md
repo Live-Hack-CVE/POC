@@ -41,6 +41,7 @@
     * [gist-seongil-wi-CVE-2023-29017-timb-machine-mirrors.md](./databases/2023/database/CVE-2023-29017/gist-seongil-wi-CVE-2023-29017-timb-machine-mirrors.md)
   * [CVE-2023-29007](./databases/2023/database/CVE-2023-29007/README.md)
     * [CVE-2023-29007-ethiack.md](./databases/2023/database/CVE-2023-29007/CVE-2023-29007-ethiack.md)
+    * [CVE-2023-29007_win-version-x-Defender.md](./databases/2023/database/CVE-2023-29007/CVE-2023-29007_win-version-x-Defender.md)
     * [CVE-2023-29007-omespino.md](./databases/2023/database/CVE-2023-29007/CVE-2023-29007-omespino.md)
     * [git_for_windows-CVE-2023-29007-x-Defender.md](./databases/2023/database/CVE-2023-29007/git_for_windows-CVE-2023-29007-x-Defender.md)
   * [CVE-2023-28858](./databases/2023/database/CVE-2023-28858/README.md)
