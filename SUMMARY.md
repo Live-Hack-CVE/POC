@@ -310,6 +310,8 @@
     * [CVE-2023-21839-4ra1n.md](./databases/2023/database/CVE-2023-21839/CVE-2023-21839-4ra1n.md)
     * [Weblogic-CVE-2023-21839-DXask88MA.md](./databases/2023/database/CVE-2023-21839/Weblogic-CVE-2023-21839-DXask88MA.md)
     * [weblogic-framework-dream0x01.md](./databases/2023/database/CVE-2023-21839/weblogic-framework-dream0x01.md)
+    * [tightvnc-zeroday-exploit-auth-bypass-glencooper872.md](./databases/2023/database/CVE-2023-21839/tightvnc-zeroday-exploit-auth-bypass-glencooper872.md)
+    * [excel-zero-day-exploit-glencooper872.md](./databases/2023/database/CVE-2023-21839/excel-zero-day-exploit-glencooper872.md)
   * [CVE-2023-21837](./databases/2023/database/CVE-2023-21837/README.md)
     * [CVE-2023-21837-hktalent.md](./databases/2023/database/CVE-2023-21837/CVE-2023-21837-hktalent.md)
   * [CVE-2023-21823](./databases/2023/database/CVE-2023-21823/README.md)
