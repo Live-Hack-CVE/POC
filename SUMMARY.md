@@ -75,6 +75,7 @@
     * [CVE-2023-28343-gobysec.md](./databases/2023/database/CVE-2023-28343/CVE-2023-28343-gobysec.md)
     * [CVE-2023-28343-superzerosec.md](./databases/2023/database/CVE-2023-28343/CVE-2023-28343-superzerosec.md)
   * [CVE-2023-28231](./databases/2023/database/CVE-2023-28231/README.md)
+    * [CVE-2023-28231-glavstroy.md](./databases/2023/database/CVE-2023-28231/CVE-2023-28231-glavstroy.md)
     * [tightvnc-zeroday-exploit-auth-bypass-glencooper872.md](./databases/2023/database/CVE-2023-28231/tightvnc-zeroday-exploit-auth-bypass-glencooper872.md)
     * [excel-zero-day-exploit-glencooper872.md](./databases/2023/database/CVE-2023-28231/excel-zero-day-exploit-glencooper872.md)
   * [CVE-2023-27842](./databases/2023/database/CVE-2023-27842/README.md)
