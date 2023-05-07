@@ -4882,6 +4882,8 @@
 ## 2021
 
 * [Database](./databases/2021/database)
+  * [CVE-2021-46703](./databases/2021/database/CVE-2021-46703/README.md)
+    * [CVE-2021-46703-BenEdridge.md](./databases/2021/database/CVE-2021-46703/CVE-2021-46703-BenEdridge.md)
   * [CVE-2021-46702](./databases/2021/database/CVE-2021-46702/README.md)
     * [CVE-2021-46702-malakkf.md](./databases/2021/database/CVE-2021-46702/CVE-2021-46702-malakkf.md)
   * [CVE-2021-46461](./databases/2021/database/CVE-2021-46461/README.md)
