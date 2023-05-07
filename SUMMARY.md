@@ -525,6 +525,8 @@
   * [CVE-2023-1389](./databases/2023/database/CVE-2023-1389/README.md)
     * [whatsapp-zero-day-exploit-darthvander20.md](./databases/2023/database/CVE-2023-1389/whatsapp-zero-day-exploit-darthvander20.md)
     * [discord-zero-day-exploit-darthvander20.md](./databases/2023/database/CVE-2023-1389/discord-zero-day-exploit-darthvander20.md)
+    * [tightvnc-zeroday-exploit-auth-bypass-glencooper872.md](./databases/2023/database/CVE-2023-1389/tightvnc-zeroday-exploit-auth-bypass-glencooper872.md)
+    * [excel-zero-day-exploit-glencooper872.md](./databases/2023/database/CVE-2023-1389/excel-zero-day-exploit-glencooper872.md)
   * [CVE-2023-1337](./databases/2023/database/CVE-2023-1337/README.md)
     * [CVE-2023-1337-Penkyzduyi.md](./databases/2023/database/CVE-2023-1337/CVE-2023-1337-Penkyzduyi.md)
   * [CVE-2023-1234](./databases/2023/database/CVE-2023-1234/README.md)
