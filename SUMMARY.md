@@ -562,6 +562,7 @@
   * [CVE-2023-0386](./databases/2023/database/CVE-2023-0386/README.md)
     * [CVE-2023-0386-xkaneiki.md](./databases/2023/database/CVE-2023-0386/CVE-2023-0386-xkaneiki.md)
     * [linux-4.19.72_CVE-2023-0386-Satheesh575555.md](./databases/2023/database/CVE-2023-0386/linux-4.19.72_CVE-2023-0386-Satheesh575555.md)
+    * [CVE-2023-0386-CKevens.md](./databases/2023/database/CVE-2023-0386/CVE-2023-0386-CKevens.md)
     * [CVE-2023-0386-chenaotian.md](./databases/2023/database/CVE-2023-0386/CVE-2023-0386-chenaotian.md)
   * [CVE-2023-0315](./databases/2023/database/CVE-2023-0315/README.md)
     * [CVE-2023-0315-mhaskar.md](./databases/2023/database/CVE-2023-0315/CVE-2023-0315-mhaskar.md)
