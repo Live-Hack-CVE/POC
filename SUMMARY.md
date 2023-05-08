@@ -4441,6 +4441,7 @@
     * [CVE-2022-2639-PipeVersion-avboy1337.md](./databases/2022/database/CVE-2022-2022/CVE-2022-2639-PipeVersion-avboy1337.md)
     * [CVE-2022-30206-Pwnrin.md](./databases/2022/database/CVE-2022-2022/CVE-2022-30206-Pwnrin.md)
     * [pxplan-GREENHAT7.md](./databases/2022/database/CVE-2022-2022/pxplan-GREENHAT7.md)
+    * [CVE-2022-23808-dipakpanchal456.md](./databases/2022/database/CVE-2022-2022/CVE-2022-23808-dipakpanchal456.md)
     * [CVE-2022-2602-Kernel-Exploit-kiks7.md](./databases/2022/database/CVE-2022-2022/CVE-2022-2602-Kernel-Exploit-kiks7.md)
     * [CVE-2022-0995-Bonfee.md](./databases/2022/database/CVE-2022-2022/CVE-2022-0995-Bonfee.md)
     * [CVE-2022-3699-alfarom256.md](./databases/2022/database/CVE-2022-2022/CVE-2022-3699-alfarom256.md)
