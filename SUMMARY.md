@@ -508,6 +508,8 @@
     * [CVE-2023-2033-insoxin.md](./databases/2023/database/CVE-2023-2033/CVE-2023-2033-insoxin.md)
   * [CVE-2023-2021](./databases/2023/database/CVE-2023-2021/README.md)
     * [Feb2023-CVE-2021-21974-OSINT-n2x4.md](./databases/2023/database/CVE-2023-2021/Feb2023-CVE-2021-21974-OSINT-n2x4.md)
+  * [CVE-2023-2020](./databases/2023/database/CVE-2023-2020/README.md)
+    * [kata-cve-2020-2023-poc-ssst0n3.md](./databases/2023/database/CVE-2023-2020/kata-cve-2020-2023-poc-ssst0n3.md)
   * [CVE-2023-2017](./databases/2023/database/CVE-2023-2017/README.md)
     * [Maldoc-Analysis-Abdibimantara.md](./databases/2023/database/CVE-2023-2017/Maldoc-Analysis-Abdibimantara.md)
   * [CVE-2023-1767](./databases/2023/database/CVE-2023-1767/README.md)
