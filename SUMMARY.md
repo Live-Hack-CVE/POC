@@ -237,6 +237,7 @@
     * [CVE-2023-23397-PoC-PowerShell-cleverg0d.md](./databases/2023/database/CVE-2023-23397/CVE-2023-23397-PoC-PowerShell-cleverg0d.md)
     * [CVE-2023-23397-jacquesquail.md](./databases/2023/database/CVE-2023-23397/CVE-2023-23397-jacquesquail.md)
     * [CVE-2023-23397-grn-bogo.md](./databases/2023/database/CVE-2023-23397/CVE-2023-23397-grn-bogo.md)
+    * [CVE-2023-23397-vlad-a-man.md](./databases/2023/database/CVE-2023-23397/CVE-2023-23397-vlad-a-man.md)
     * [CVE-2023-23397-tiepologian.md](./databases/2023/database/CVE-2023-23397/CVE-2023-23397-tiepologian.md)
     * [CVE-2023-23397-stevesec.md](./databases/2023/database/CVE-2023-23397/CVE-2023-23397-stevesec.md)
     * [CVE-2023-23397-Report-madelynadams9.md](./databases/2023/database/CVE-2023-23397/CVE-2023-23397-Report-madelynadams9.md)
