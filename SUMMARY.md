@@ -107,6 +107,7 @@
     * [CVE-2023-27524-antx-code.md](./databases/2023/database/CVE-2023-27524/CVE-2023-27524-antx-code.md)
     * [Superset_auth_bypass_check-Okaytc.md](./databases/2023/database/CVE-2023-27524/Superset_auth_bypass_check-Okaytc.md)
     * [CVE-2023-27524-horizon3ai.md](./databases/2023/database/CVE-2023-27524/CVE-2023-27524-horizon3ai.md)
+    * [CVE-2023-27524-TardC.md](./databases/2023/database/CVE-2023-27524/CVE-2023-27524-TardC.md)
   * [CVE-2023-27350](./databases/2023/database/CVE-2023-27350/README.md)
     * [CVE-2023-27350-POC-MaanVader.md](./databases/2023/database/CVE-2023-27350/CVE-2023-27350-POC-MaanVader.md)
     * [whatsapp-zero-day-exploit-darthvander20.md](./databases/2023/database/CVE-2023-27350/whatsapp-zero-day-exploit-darthvander20.md)
