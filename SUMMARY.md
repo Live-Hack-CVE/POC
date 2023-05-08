@@ -205,6 +205,7 @@
     * [CVE-2023-23752-0xNahim.md](./databases/2023/database/CVE-2023-23752/CVE-2023-23752-0xNahim.md)
     * [CVE-2023-23752-gibran-abdillah.md](./databases/2023/database/CVE-2023-23752/CVE-2023-23752-gibran-abdillah.md)
     * [DorkerW-CVE-2023-23752-Pari-Malam.md](./databases/2023/database/CVE-2023-23752/DorkerW-CVE-2023-23752-Pari-Malam.md)
+    * [Joomla-CVE-2023-23752-wibuheker.md](./databases/2023/database/CVE-2023-23752/Joomla-CVE-2023-23752-wibuheker.md)
     * [CVE-2023-23752-z3n70.md](./databases/2023/database/CVE-2023-23752/CVE-2023-23752-z3n70.md)
     * [CVE-2023-23752-Saboor-Hakimi.md](./databases/2023/database/CVE-2023-23752/CVE-2023-23752-Saboor-Hakimi.md)
     * [Radiance-equationsoftworks.md](./databases/2023/database/CVE-2023-23752/Radiance-equationsoftworks.md)
