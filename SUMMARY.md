@@ -1767,6 +1767,7 @@
   * [CVE-2022-28368](./databases/2022/database/CVE-2022-28368/README.md)
     * [CVE-2022-28368-rvizx.md](./databases/2022/database/CVE-2022-28368/CVE-2022-28368-rvizx.md)
     * [CVE-2022-28368-handler-That-Guy-Steve.md](./databases/2022/database/CVE-2022-28368/CVE-2022-28368-handler-That-Guy-Steve.md)
+    * [Dompdf-Exploit-RCE-Henryisnotavailable.md](./databases/2022/database/CVE-2022-28368/Dompdf-Exploit-RCE-Henryisnotavailable.md)
   * [CVE-2022-28346](./databases/2022/database/CVE-2022-28346/README.md)
     * [CVE-2022-28346-vincentinttsh.md](./databases/2022/database/CVE-2022-28346/CVE-2022-28346-vincentinttsh.md)
     * [CVE-2022-28346-YouGina.md](./databases/2022/database/CVE-2022-28346/CVE-2022-28346-YouGina.md)
