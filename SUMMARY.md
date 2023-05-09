@@ -4555,6 +4555,7 @@
     * [CVE-2022-14733-hkzck.md](./databases/2022/database/CVE-2022-1473/CVE-2022-14733-hkzck.md)
   * [CVE-2022-1471](./databases/2022/database/CVE-2022-1471/README.md)
     * [SnakeYAML-CVE-2022-1471-POC-1fabunicorn.md](./databases/2022/database/CVE-2022-1471/SnakeYAML-CVE-2022-1471-POC-1fabunicorn.md)
+    * [snakeyaml_cve_poc-falconkei.md](./databases/2022/database/CVE-2022-1471/snakeyaml_cve_poc-falconkei.md)
   * [CVE-2022-1444](./databases/2022/database/CVE-2022-1444/README.md)
     * [POC-CVE-2022-1444-KrungSalad.md](./databases/2022/database/CVE-2022-1444/POC-CVE-2022-1444-KrungSalad.md)
   * [CVE-2022-1421](./databases/2022/database/CVE-2022-1421/README.md)
