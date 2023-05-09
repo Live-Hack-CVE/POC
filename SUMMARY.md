@@ -2144,6 +2144,7 @@
     * [CVE-2022-24637-icebreack.md](./databases/2022/database/CVE-2022-24637/CVE-2022-24637-icebreack.md)
     * [CVE-2022-24637-JacobEbben.md](./databases/2022/database/CVE-2022-24637/CVE-2022-24637-JacobEbben.md)
     * [CVE-2022-24637-Pflegusch.md](./databases/2022/database/CVE-2022-24637/CVE-2022-24637-Pflegusch.md)
+    * [HTB-pwned-c0derpwner.md](./databases/2022/database/CVE-2022-24637/HTB-pwned-c0derpwner.md)
     * [CVE-2022-24637-0xM4hm0ud.md](./databases/2022/database/CVE-2022-24637/CVE-2022-24637-0xM4hm0ud.md)
   * [CVE-2022-24611](./databases/2022/database/CVE-2022-24611/README.md)
     * [CVE-2022-24611-ITSecLab-HSEL.md](./databases/2022/database/CVE-2022-24611/CVE-2022-24611-ITSecLab-HSEL.md)
