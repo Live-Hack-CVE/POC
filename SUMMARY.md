@@ -6828,6 +6828,8 @@
     * [CVE-2021-26258-zwclose.md](./databases/2021/database/CVE-2021-26258/CVE-2021-26258-zwclose.md)
   * [CVE-2021-26119](./databases/2021/database/CVE-2021-26119/README.md)
     * [CVE-2021-26119-Udyz.md](./databases/2021/database/CVE-2021-26119/CVE-2021-26119-Udyz.md)
+  * [CVE-2021-26088](./databases/2021/database/CVE-2021-26088/README.md)
+    * [CVE-2021-26088-theogobinet.md](./databases/2021/database/CVE-2021-26088/CVE-2021-26088-theogobinet.md)
   * [CVE-2021-26086](./databases/2021/database/CVE-2021-26086/README.md)
     * [CVE-2021-26086-ColdFusionX.md](./databases/2021/database/CVE-2021-26086/CVE-2021-26086-ColdFusionX.md)
   * [CVE-2021-26085](./databases/2021/database/CVE-2021-26085/README.md)
