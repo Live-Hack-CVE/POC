@@ -6392,6 +6392,7 @@
     * [CVE-2021-31805-z92g.md](./databases/2021/database/CVE-2021-31805/CVE-2021-31805-z92g.md)
     * [s2-062-YanMu2020.md](./databases/2021/database/CVE-2021-31805/s2-062-YanMu2020.md)
     * [CVE-2021-31805-POC-fleabane1.md](./databases/2021/database/CVE-2021-31805/CVE-2021-31805-POC-fleabane1.md)
+    * [s2-062-pyroxenites.md](./databases/2021/database/CVE-2021-31805/s2-062-pyroxenites.md)
     * [Struts2_S2-062_CVE-2021-31805-Axx8.md](./databases/2021/database/CVE-2021-31805/Struts2_S2-062_CVE-2021-31805-Axx8.md)
     * [CVE-2021-31805-aeyesec.md](./databases/2021/database/CVE-2021-31805/CVE-2021-31805-aeyesec.md)
   * [CVE-2021-31800](./databases/2021/database/CVE-2021-31800/README.md)
