@@ -6696,6 +6696,7 @@
     * [CVE-2021-268855-sikkertech.md](./databases/2021/database/CVE-2021-26885/CVE-2021-268855-sikkertech.md)
     * [PocList-1n7erface.md](./databases/2021/database/CVE-2021-26885/PocList-1n7erface.md)
   * [CVE-2021-26882](./databases/2021/database/CVE-2021-26882/README.md)
+    * [CVE-2021-26882-taiji-xo.md](./databases/2021/database/CVE-2021-26882/CVE-2021-26882-taiji-xo.md)
     * [CVE-2021-26882-api0cradle.md](./databases/2021/database/CVE-2021-26882/CVE-2021-26882-api0cradle.md)
   * [CVE-2021-26871](./databases/2021/database/CVE-2021-26871/README.md)
     * [CVE-2021-26871_POC-robotMD5.md](./databases/2021/database/CVE-2021-26871/CVE-2021-26871_POC-robotMD5.md)
