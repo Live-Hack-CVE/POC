@@ -28,6 +28,8 @@
     * [CVE-2023-30185-c7w1n.md](./databases/2023/database/CVE-2023-30185/CVE-2023-30185-c7w1n.md)
   * [CVE-2023-30092](./databases/2023/database/CVE-2023-30092/README.md)
     * [CVE-2023-30092-nawed20002.md](./databases/2023/database/CVE-2023-30092/CVE-2023-30092-nawed20002.md)
+  * [CVE-2023-29930](./databases/2023/database/CVE-2023-29930/README.md)
+    * [TFTPlunder-YSaxon.md](./databases/2023/database/CVE-2023-29930/TFTPlunder-YSaxon.md)
   * [CVE-2023-29839](./databases/2023/database/CVE-2023-29839/README.md)
     * [CVE-2023-29839-jichngan.md](./databases/2023/database/CVE-2023-29839/CVE-2023-29839-jichngan.md)
   * [CVE-2023-29489](./databases/2023/database/CVE-2023-29489/README.md)
