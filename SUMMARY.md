@@ -8747,6 +8747,7 @@
     * [laravel-exploits-ambionics.md](./databases/2021/database/CVE-2021-2021/laravel-exploits-ambionics.md)
     * [CVE-2021-22205-inspiringz.md](./databases/2021/database/CVE-2021-2021/CVE-2021-22205-inspiringz.md)
     * [CVE-2021-34527-JohnHammond.md](./databases/2021/database/CVE-2021-2021/CVE-2021-34527-JohnHammond.md)
+    * [PrintNightmare-CVE-2021-34527-nemo-wq.md](./databases/2021/database/CVE-2021-2021/PrintNightmare-CVE-2021-34527-nemo-wq.md)
     * [CVE-2021-4154-Markakd.md](./databases/2021/database/CVE-2021-2021/CVE-2021-4154-Markakd.md)
     * [CVE-2021-40444-lockedbyte.md](./databases/2021/database/CVE-2021-2021/CVE-2021-40444-lockedbyte.md)
     * [Linux_LPE_eBPF_CVE-2021-3490-chompie1337.md](./databases/2021/database/CVE-2021-2021/Linux_LPE_eBPF_CVE-2021-3490-chompie1337.md)
