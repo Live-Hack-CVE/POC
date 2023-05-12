@@ -5359,6 +5359,7 @@
     * [Grafana-CVE-2021-43798Exp-fanygit.md](./databases/2021/database/CVE-2021-43798/Grafana-CVE-2021-43798Exp-fanygit.md)
     * [CVE-2021-43798-LongWayHomie.md](./databases/2021/database/CVE-2021-43798/CVE-2021-43798-LongWayHomie.md)
     * [CVE-2021-43798-gixxyboy.md](./databases/2021/database/CVE-2021-43798/CVE-2021-43798-gixxyboy.md)
+    * [GrafanaDirectoryScanner-FAOG99.md](./databases/2021/database/CVE-2021-43798/GrafanaDirectoryScanner-FAOG99.md)
     * [Grafana_POC-CVE-2021-43798-Mo0ns.md](./databases/2021/database/CVE-2021-43798/Grafana_POC-CVE-2021-43798-Mo0ns.md)
     * [CVE-2021-43798-grafana_fileread-j-jasson.md](./databases/2021/database/CVE-2021-43798/CVE-2021-43798-grafana_fileread-j-jasson.md)
     * [CVE-2021-43798-zer0yu.md](./databases/2021/database/CVE-2021-43798/CVE-2021-43798-zer0yu.md)
