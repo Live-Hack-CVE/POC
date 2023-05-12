@@ -8195,6 +8195,7 @@
     * [clif-0x4ndy.md](./databases/2021/database/CVE-2021-3156/clif-0x4ndy.md)
     * [CVE-2021-3156-CyberCommands.md](./databases/2021/database/CVE-2021-3156/CVE-2021-3156-CyberCommands.md)
     * [CVE-2021-3156-d3c3ptic0n.md](./databases/2021/database/CVE-2021-3156/CVE-2021-3156-d3c3ptic0n.md)
+    * [CVE-2021-3156-mutur4.md](./databases/2021/database/CVE-2021-3156/CVE-2021-3156-mutur4.md)
     * [cve2021-3156-sudo-heap-overflow-Jauler.md](./databases/2021/database/CVE-2021-3156/cve2021-3156-sudo-heap-overflow-Jauler.md)
     * [patches-usr2r00t.md](./databases/2021/database/CVE-2021-3156/patches-usr2r00t.md)
     * [LinuxEelvation-Al1ex.md](./databases/2021/database/CVE-2021-3156/LinuxEelvation-Al1ex.md)
