@@ -4894,6 +4894,7 @@
   * [CVE-2022-0586](./databases/2022/database/CVE-2022-0586/README.md)
     * [bug-free-memory-Nate0634034090.md](./databases/2022/database/CVE-2022-0586/bug-free-memory-Nate0634034090.md)
   * [CVE-2022-0543](./databases/2022/database/CVE-2022-0543/README.md)
+    * [redisHack-SiennaSkies.md](./databases/2022/database/CVE-2022-0543/redisHack-SiennaSkies.md)
     * [CVE-2022-0543-JacobEbben.md](./databases/2022/database/CVE-2022-0543/CVE-2022-0543-JacobEbben.md)
     * [CVE-2022-0543-z92g.md](./databases/2022/database/CVE-2022-0543/CVE-2022-0543-z92g.md)
     * [CVE-2022-0543-aodsec.md](./databases/2022/database/CVE-2022-0543/CVE-2022-0543-aodsec.md)
