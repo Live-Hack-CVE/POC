@@ -488,6 +488,7 @@
     * [joomla_CVE-2023-23752-ibaiw.md](./databases/2023/database/CVE-2023-2375/joomla_CVE-2023-23752-ibaiw.md)
   * [CVE-2023-2363](./databases/2023/database/CVE-2023-2363/README.md)
     * [CVE-2023-23638-X1r0z.md](./databases/2023/database/CVE-2023-2363/CVE-2023-23638-X1r0z.md)
+    * [Apache-Dubbo-CVE-2023-23638-exp-YYHYlh.md](./databases/2023/database/CVE-2023-2363/Apache-Dubbo-CVE-2023-23638-exp-YYHYlh.md)
   * [CVE-2023-2350](./databases/2023/database/CVE-2023-2350/README.md)
     * [CVE-2023-23504-zeroc00I.md](./databases/2023/database/CVE-2023-2350/CVE-2023-23504-zeroc00I.md)
   * [CVE-2023-2348](./databases/2023/database/CVE-2023-2348/README.md)
