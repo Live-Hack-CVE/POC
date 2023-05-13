@@ -626,6 +626,7 @@
   * [CVE-2023-0461](./databases/2023/database/CVE-2023-0461/README.md)
     * [linux-4.19.72_CVE-2023-0461-nidhi7598.md](./databases/2023/database/CVE-2023-0461/linux-4.19.72_CVE-2023-0461-nidhi7598.md)
     * [kernel_v4.19.72_CVE-2023-0461-hshivhare67.md](./databases/2023/database/CVE-2023-0461/kernel_v4.19.72_CVE-2023-0461-hshivhare67.md)
+    * [linux-4.19.72_CVE-2023-0461-ycnbd-hheeyywweellccoommee.md](./databases/2023/database/CVE-2023-0461/linux-4.19.72_CVE-2023-0461-ycnbd-hheeyywweellccoommee.md)
   * [CVE-2023-0386](./databases/2023/database/CVE-2023-0386/README.md)
     * [tinder-zero-day-exploit-securitydan284.md](./databases/2023/database/CVE-2023-0386/tinder-zero-day-exploit-securitydan284.md)
     * [ms-word-zero-day-rce-poc-securitymike2310.md](./databases/2023/database/CVE-2023-0386/ms-word-zero-day-rce-poc-securitymike2310.md)
