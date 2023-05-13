@@ -8753,6 +8753,7 @@
     * [CVE-2021-22204-exiftool-convisolabs.md](./databases/2021/database/CVE-2021-2021/CVE-2021-22204-exiftool-convisolabs.md)
     * [exprolog-herwonowr.md](./databases/2021/database/CVE-2021-2021/exprolog-herwonowr.md)
     * [CVE-2021-21551-waldo-irc.md](./databases/2021/database/CVE-2021-2021/CVE-2021-21551-waldo-irc.md)
+    * [CVE-2021-26855-hackerxj007.md](./databases/2021/database/CVE-2021-2021/CVE-2021-26855-hackerxj007.md)
     * [CVE-2021-41773-thehackersbrain.md](./databases/2021/database/CVE-2021-2021/CVE-2021-41773-thehackersbrain.md)
     * [CVE-2021-1732-k-k-k-k-k.md](./databases/2021/database/CVE-2021-2021/CVE-2021-1732-k-k-k-k-k.md)
     * [log4shell-vulnerable-app-christophetd.md](./databases/2021/database/CVE-2021-2021/log4shell-vulnerable-app-christophetd.md)
