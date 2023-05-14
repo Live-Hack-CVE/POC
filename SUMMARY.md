@@ -8228,6 +8228,7 @@
     * [CVE-2021-3156-meowhua15.md](./databases/2021/database/CVE-2021-3156/CVE-2021-3156-meowhua15.md)
     * [CVE-2021-3156-plus-Rvn0xsy.md](./databases/2021/database/CVE-2021-3156/CVE-2021-3156-plus-Rvn0xsy.md)
     * [ScannerCVE-2021-3156-SantiagoSerrao.md](./databases/2021/database/CVE-2021-3156/ScannerCVE-2021-3156-SantiagoSerrao.md)
+    * [PE_CVE-CVE-2021-3156-PurpleOzone.md](./databases/2021/database/CVE-2021-3156/PE_CVE-CVE-2021-3156-PurpleOzone.md)
     * [CVE-2021-3156-Exodusro.md](./databases/2021/database/CVE-2021-3156/CVE-2021-3156-Exodusro.md)
     * [clif-0x4ndy.md](./databases/2021/database/CVE-2021-3156/clif-0x4ndy.md)
     * [CVE-2021-3156-CyberCommands.md](./databases/2021/database/CVE-2021-3156/CVE-2021-3156-CyberCommands.md)
