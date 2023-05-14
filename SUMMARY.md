@@ -3158,6 +3158,8 @@
   * [CVE-2022-4103](./databases/2022/database/CVE-2022-4103/README.md)
     * [CVE-2022-41034-andyhsu024.md](./databases/2022/database/CVE-2022-4103/CVE-2022-41034-andyhsu024.md)
     * [cve-2022-41032-ethomson.md](./databases/2022/database/CVE-2022-4103/cve-2022-41032-ethomson.md)
+  * [CVE-2022-4096](./databases/2022/database/CVE-2022-4096/README.md)
+    * [CVE-2022-4096-aminetitrofine.md](./databases/2022/database/CVE-2022-4096/CVE-2022-4096-aminetitrofine.md)
   * [CVE-2022-4091](./databases/2022/database/CVE-2022-4091/README.md)
     * [CVE-2022-40916-whitej3rry.md](./databases/2022/database/CVE-2022-4091/CVE-2022-40916-whitej3rry.md)
   * [CVE-2022-4088](./databases/2022/database/CVE-2022-4088/README.md)
