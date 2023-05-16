@@ -1205,6 +1205,7 @@
     * [CVE-2022-39299_PoC_Generator-doyensec.md](./databases/2022/database/CVE-2022-39299/CVE-2022-39299_PoC_Generator-doyensec.md)
   * [CVE-2022-39253](./databases/2022/database/CVE-2022-39253/README.md)
     * [docker-cve-2022-39253-poc-ssst0n3.md](./databases/2022/database/CVE-2022-39253/docker-cve-2022-39253-poc-ssst0n3.md)
+    * [NetworkSecurityFinalProject-HiImDarwin.md](./databases/2022/database/CVE-2022-39253/NetworkSecurityFinalProject-HiImDarwin.md)
   * [CVE-2022-39197](./databases/2022/database/CVE-2022-39197/README.md)
     * [CVE-2022-39197-RCE-TheCryingGame.md](./databases/2022/database/CVE-2022-39197/CVE-2022-39197-RCE-TheCryingGame.md)
     * [cobaltstrike_swing_xss2rce-hluwa.md](./databases/2022/database/CVE-2022-39197/cobaltstrike_swing_xss2rce-hluwa.md)
