@@ -6,6 +6,7 @@
   * [CVE-2023-32243](./databases/2023/database/CVE-2023-32243/README.md)
     * [CVE-2023-32243-gbrsh.md](./databases/2023/database/CVE-2023-32243/CVE-2023-32243-gbrsh.md)
     * [cve-2023-32243-little44n1o.md](./databases/2023/database/CVE-2023-32243/cve-2023-32243-little44n1o.md)
+    * [CVE-2023-32243-RandomRobbieBF.md](./databases/2023/database/CVE-2023-32243/CVE-2023-32243-RandomRobbieBF.md)
   * [CVE-2023-32233](./databases/2023/database/CVE-2023-32233/README.md)
     * [CVE-2023-32233-PIDAN-HEIDASHUAI.md](./databases/2023/database/CVE-2023-32233/CVE-2023-32233-PIDAN-HEIDASHUAI.md)
     * [CVE-2023-32233-Liuk3r.md](./databases/2023/database/CVE-2023-32233/CVE-2023-32233-Liuk3r.md)
