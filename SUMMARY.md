@@ -708,6 +708,8 @@
   * [CVE-2023-0045](./databases/2023/database/CVE-2023-0045/README.md)
     * [CVE-2023-0045-ASkyeye.md](./databases/2023/database/CVE-2023-0045/CVE-2023-0045-ASkyeye.md)
     * [CVE-2023-0045-es0j.md](./databases/2023/database/CVE-2023-0045/CVE-2023-0045-es0j.md)
+  * [CVE-2023-0001](./databases/2023/database/CVE-2023-0001/README.md)
+    * [complex-vulnerabilities-MarcusGutierrez.md](./databases/2023/database/CVE-2023-0001/complex-vulnerabilities-MarcusGutierrez.md)
 
 
 ## 2022
