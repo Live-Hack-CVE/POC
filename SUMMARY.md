@@ -66,6 +66,8 @@
     * [cPanel-CVE-2023-29489-xKore123.md](./databases/2023/database/CVE-2023-29489/cPanel-CVE-2023-29489-xKore123.md)
   * [CVE-2023-29478](./databases/2023/database/CVE-2023-29478/README.md)
     * [BiblioRCE-Exopteron.md](./databases/2023/database/CVE-2023-29478/BiblioRCE-Exopteron.md)
+  * [CVE-2023-29421](./databases/2023/database/CVE-2023-29421/README.md)
+    * [complex-vulnerabilities-MarcusGutierrez.md](./databases/2023/database/CVE-2023-29421/complex-vulnerabilities-MarcusGutierrez.md)
   * [CVE-2023-29336](./databases/2023/database/CVE-2023-29336/README.md)
     * [tinder-zero-day-exploit-securitydan284.md](./databases/2023/database/CVE-2023-29336/tinder-zero-day-exploit-securitydan284.md)
     * [ms-word-zero-day-rce-poc-securitymike2310.md](./databases/2023/database/CVE-2023-29336/ms-word-zero-day-rce-poc-securitymike2310.md)
