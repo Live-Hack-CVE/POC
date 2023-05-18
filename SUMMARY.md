@@ -3,6 +3,8 @@
 ## 2023
 
 * [Database](./databases/2023/database)
+  * [CVE-2023-32784](./databases/2023/database/CVE-2023-32784/README.md)
+    * [CVE-2023-32784-keepass-linux-CTM1.md](./databases/2023/database/CVE-2023-32784/CVE-2023-32784-keepass-linux-CTM1.md)
   * [CVE-2023-32243](./databases/2023/database/CVE-2023-32243/README.md)
     * [CVE-2023-32243-gbrsh.md](./databases/2023/database/CVE-2023-32243/CVE-2023-32243-gbrsh.md)
     * [cve-2023-32243-little44n1o.md](./databases/2023/database/CVE-2023-32243/cve-2023-32243-little44n1o.md)
