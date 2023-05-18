@@ -624,6 +624,7 @@
     * [CVE-2023-1767-weizman.md](./databases/2023/database/CVE-2023-1767/CVE-2023-1767-weizman.md)
   * [CVE-2023-1671](./databases/2023/database/CVE-2023-1671/README.md)
     * [CVE-2023-1671-ohnonoyesyes.md](./databases/2023/database/CVE-2023-1671/CVE-2023-1671-ohnonoyesyes.md)
+    * [cve-2023-1671-csffs.md](./databases/2023/database/CVE-2023-1671/cve-2023-1671-csffs.md)
     * [CVE-2023-1671-POC-W01fh4cker.md](./databases/2023/database/CVE-2023-1671/CVE-2023-1671-POC-W01fh4cker.md)
     * [CVE-2023-1671-behnamvanda.md](./databases/2023/database/CVE-2023-1671/CVE-2023-1671-behnamvanda.md)
     * [CVE-2023-1671-POC-c4ln.md](./databases/2023/database/CVE-2023-1671/CVE-2023-1671-POC-c4ln.md)
