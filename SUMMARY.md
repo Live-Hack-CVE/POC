@@ -1329,6 +1329,8 @@
   * [CVE-2022-36946](./databases/2022/database/CVE-2022-36946/README.md)
     * [linux-4.19.72_CVE-2022-36946-Satheesh575555.md](./databases/2022/database/CVE-2022-36946/linux-4.19.72_CVE-2022-36946-Satheesh575555.md)
     * [CVE-2022-36946-Pwnzer0tt1.md](./databases/2022/database/CVE-2022-36946/CVE-2022-36946-Pwnzer0tt1.md)
+  * [CVE-2022-36944](./databases/2022/database/CVE-2022-36944/README.md)
+    * [lazylist-cve-poc-yarocher.md](./databases/2022/database/CVE-2022-36944/lazylist-cve-poc-yarocher.md)
   * [CVE-2022-36804](./databases/2022/database/CVE-2022-36804/README.md)
     * [CVE-2022-36804-Inplex-sys.md](./databases/2022/database/CVE-2022-36804/CVE-2022-36804-Inplex-sys.md)
     * [CVE-2022-36804-ReverseShell-Chocapikk.md](./databases/2022/database/CVE-2022-36804/CVE-2022-36804-ReverseShell-Chocapikk.md)
