@@ -4960,6 +4960,7 @@
     * [Dirty-Pipe-CVE-2022-0847-pmihsan.md](./databases/2022/database/CVE-2022-0847/Dirty-Pipe-CVE-2022-0847-pmihsan.md)
     * [CVE-2022-0847-POC-CYB3RK1D.md](./databases/2022/database/CVE-2022-0847/CVE-2022-0847-POC-CYB3RK1D.md)
     * [dirty-pipe-scopion.md](./databases/2022/database/CVE-2022-0847/dirty-pipe-scopion.md)
+    * [CVE-2022-0847-BlizzardEternity.md](./databases/2022/database/CVE-2022-0847/CVE-2022-0847-BlizzardEternity.md)
     * [DirtyPIPE-CVE-2022-0847-githublihaha.md](./databases/2022/database/CVE-2022-0847/DirtyPIPE-CVE-2022-0847-githublihaha.md)
     * [CVE_2022_0847-s3mPr1linux.md](./databases/2022/database/CVE-2022-0847/CVE_2022_0847-s3mPr1linux.md)
     * [DirtyPipePython-crusoe112.md](./databases/2022/database/CVE-2022-0847/DirtyPipePython-crusoe112.md)
