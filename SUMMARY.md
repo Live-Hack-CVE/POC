@@ -448,6 +448,7 @@
     * [CVE-2023-21554-RCE-C3r7.md](./databases/2023/database/CVE-2023-21554/CVE-2023-21554-RCE-C3r7.md)
     * [PoC-CVE-2023-21554-Hashi0x.md](./databases/2023/database/CVE-2023-21554/PoC-CVE-2023-21554-Hashi0x.md)
     * [CVE-2023-21554-QueueJumper-xhshes.md](./databases/2023/database/CVE-2023-21554/CVE-2023-21554-QueueJumper-xhshes.md)
+    * [CVE-2023-21554-PoC-zoemurmure.md](./databases/2023/database/CVE-2023-21554/CVE-2023-21554-PoC-zoemurmure.md)
     * [CVE-2023-21554-RCE-C00k3rbkr.md](./databases/2023/database/CVE-2023-21554/CVE-2023-21554-RCE-C00k3rbkr.md)
   * [CVE-2023-21529](./databases/2023/database/CVE-2023-21529/README.md)
     * [discord-rce-exploit-poc-mayflowers54.md](./databases/2023/database/CVE-2023-21529/discord-rce-exploit-poc-mayflowers54.md)
