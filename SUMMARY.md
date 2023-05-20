@@ -2883,6 +2883,8 @@
     * [LeakValue-michalbednarski.md](./databases/2022/database/CVE-2022-20452/LeakValue-michalbednarski.md)
   * [CVE-2022-20441](./databases/2022/database/CVE-2022-20441/README.md)
     * [frameworks_base_AOSP_10_r33_CVE-2022-20441-nidhi7598.md](./databases/2022/database/CVE-2022-20441/frameworks_base_AOSP_10_r33_CVE-2022-20441-nidhi7598.md)
+  * [CVE-2022-20421](./databases/2022/database/CVE-2022-20421/README.md)
+    * [badspin-0xkol.md](./databases/2022/database/CVE-2022-20421/badspin-0xkol.md)
   * [CVE-2022-20413](./databases/2022/database/CVE-2022-20413/README.md)
     * [frameworks_av-r33_CVE-2022-20413-pazhanivel07.md](./databases/2022/database/CVE-2022-20413/frameworks_av-r33_CVE-2022-20413-pazhanivel07.md)
   * [CVE-2022-20361](./databases/2022/database/CVE-2022-20361/README.md)
