@@ -3108,6 +3108,8 @@
   * [CVE-2022-4421](./databases/2022/database/CVE-2022-4421/README.md)
     * [CVE-2022-44215-JBalanza.md](./databases/2022/database/CVE-2022-4421/CVE-2022-44215-JBalanza.md)
     * [CVE-2022-44215-wh-gov.md](./databases/2022/database/CVE-2022-4421/CVE-2022-44215-wh-gov.md)
+  * [CVE-2022-4418](./databases/2022/database/CVE-2022-4418/README.md)
+    * [CVE-2022-44183-FuHaoPing.md](./databases/2022/database/CVE-2022-4418/CVE-2022-44183-FuHaoPing.md)
   * [CVE-2022-4414](./databases/2022/database/CVE-2022-4414/README.md)
     * [CVE-2022-44149-yerodin.md](./databases/2022/database/CVE-2022-4414/CVE-2022-44149-yerodin.md)
   * [CVE-2022-4398](./databases/2022/database/CVE-2022-4398/README.md)
