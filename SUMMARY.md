@@ -5456,6 +5456,7 @@
     * [CVE-2021-43798-light-Life.md](./databases/2021/database/CVE-2021-43798/CVE-2021-43798-light-Life.md)
     * [grafana-cve-2021-43798-yasin-cs-ko-ak.md](./databases/2021/database/CVE-2021-43798/grafana-cve-2021-43798-yasin-cs-ko-ak.md)
     * [WebFrameworkTools-5.1-main-peiqiF4ck.md](./databases/2021/database/CVE-2021-43798/WebFrameworkTools-5.1-main-peiqiF4ck.md)
+    * [CVE-2021-43798-grafana_fileread-M0ge.md](./databases/2021/database/CVE-2021-43798/CVE-2021-43798-grafana_fileread-M0ge.md)
     * [CVE-2021-43798-Grafana-k3rwin.md](./databases/2021/database/CVE-2021-43798/CVE-2021-43798-Grafana-k3rwin.md)
     * [grafanaExp-kenuosec.md](./databases/2021/database/CVE-2021-43798/grafanaExp-kenuosec.md)
     * [CVE-2021-43798-Ryze-T.md](./databases/2021/database/CVE-2021-43798/CVE-2021-43798-Ryze-T.md)
