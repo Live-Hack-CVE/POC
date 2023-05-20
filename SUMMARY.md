@@ -619,6 +619,7 @@
     * [CVE-2023-21554-PoC-g1x-r.md](./databases/2023/database/CVE-2023-2155/CVE-2023-21554-PoC-g1x-r.md)
     * [CVE-2023-21554-RCE-C3r7.md](./databases/2023/database/CVE-2023-2155/CVE-2023-21554-RCE-C3r7.md)
     * [PoC-CVE-2023-21554-Hashi0x.md](./databases/2023/database/CVE-2023-2155/PoC-CVE-2023-21554-Hashi0x.md)
+    * [CVE-2023-21554-PoC-zoemurmure.md](./databases/2023/database/CVE-2023-2155/CVE-2023-21554-PoC-zoemurmure.md)
   * [CVE-2023-2138](./databases/2023/database/CVE-2023-2138/README.md)
     * [Weblogic_CVE-2023-21389-sxsuperxuan.md](./databases/2023/database/CVE-2023-2138/Weblogic_CVE-2023-21389-sxsuperxuan.md)
   * [CVE-2023-2131](./databases/2023/database/CVE-2023-2131/README.md)
