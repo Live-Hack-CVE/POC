@@ -1107,3 +1107,4 @@ All the POC for the CVE of the year
 * [CVE-2022-41544](https://www.alice-snow.ru/2022/database/cve-2022-41544)
 * [CVE-2022-36944](https://www.alice-snow.ru/2022/database/cve-2022-36944)
 * [CVE-2022-20421](https://www.alice-snow.ru/2022/database/cve-2022-20421)
+* [CVE-2022-30114](https://www.alice-snow.ru/2022/database/cve-2022-30114)
