@@ -1,8 +1,5 @@
 # Database
 
-All the POC for the CVE of the year
-
-
 * [CVE-2021-44228](https://www.alice-snow.ru/2021/database/cve-2021-44228)
 * [CVE-2021-3674](https://www.alice-snow.ru/2021/database/cve-2021-3674)
 * [CVE-2021-0056](https://www.alice-snow.ru/2021/database/cve-2021-0056)

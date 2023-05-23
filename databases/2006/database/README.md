@@ -1,8 +1,5 @@
 # Database
 
-All the POC for the CVE of the year
-
-
 * [CVE-2006-0450](https://www.alice-snow.ru/2006/database/cve-2006-0450)
 * [CVE-2006-1236](https://www.alice-snow.ru/2006/database/cve-2006-1236)
 * [CVE-2006-2000](https://www.alice-snow.ru/2006/database/cve-2006-2000)

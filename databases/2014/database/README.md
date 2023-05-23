@@ -1,8 +1,5 @@
 # Database
 
-All the POC for the CVE of the year
-
-
 * [CVE-2014-0038](https://www.alice-snow.ru/2014/database/cve-2014-0038)
 * [CVE-2014-0043](https://www.alice-snow.ru/2014/database/cve-2014-0043)
 * [CVE-2014-0050](https://www.alice-snow.ru/2014/database/cve-2014-0050)

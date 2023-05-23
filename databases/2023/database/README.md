@@ -1,8 +1,5 @@
 # Database
 
-All the POC for the CVE of the year
-
-
 * [CVE-2023-26692](https://www.alice-snow.ru/2023/database/cve-2023-26692)
 * [CVE-2023-26984](https://www.alice-snow.ru/2023/database/cve-2023-26984)
 * [CVE-2023-26982](https://www.alice-snow.ru/2023/database/cve-2023-26982)

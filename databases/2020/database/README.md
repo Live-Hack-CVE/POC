@@ -1,8 +1,5 @@
 # Database
 
-All the POC for the CVE of the year
-
-
 * [CVE-2020-0001](https://www.alice-snow.ru/2020/database/cve-2020-0001)
 * [CVE-2020-0002](https://www.alice-snow.ru/2020/database/cve-2020-0002)
 * [CVE-2020-0014](https://www.alice-snow.ru/2020/database/cve-2020-0014)
