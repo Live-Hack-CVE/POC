@@ -7161,6 +7161,7 @@
   * [CVE-2021-22569](./databases/2021/database/CVE-2021-22569/README.md)
     * [A-potential-Denial-of-Service-issue-in-protobuf-java-Mario-Kart-Felix.md](./databases/2021/database/CVE-2021-22569/A-potential-Denial-of-Service-issue-in-protobuf-java-Mario-Kart-Felix.md)
   * [CVE-2021-22555](./databases/2021/database/CVE-2021-22555/README.md)
+    * [netsec-project-masjohncook.md](./databases/2021/database/CVE-2021-22555/netsec-project-masjohncook.md)
     * [CVE-2021-22555-esc-priv-daletoniris.md](./databases/2021/database/CVE-2021-22555/CVE-2021-22555-esc-priv-daletoniris.md)
     * [cve-2021-22555-JoneyJunior.md](./databases/2021/database/CVE-2021-22555/cve-2021-22555-JoneyJunior.md)
     * [CVE-2021-22555-Exploit-xyjl-ly.md](./databases/2021/database/CVE-2021-22555/CVE-2021-22555-Exploit-xyjl-ly.md)
