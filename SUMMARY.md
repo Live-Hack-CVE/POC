@@ -8225,6 +8225,7 @@
   * [CVE-2021-3441](./databases/2021/database/CVE-2021-3441/README.md)
     * [CVE-2021-3441-check-tcbutler320.md](./databases/2021/database/CVE-2021-3441/CVE-2021-3441-check-tcbutler320.md)
   * [CVE-2021-3438](./databases/2021/database/CVE-2021-3438/README.md)
+    * [CVE-2021-3438-Exploitables.md](./databases/2021/database/CVE-2021-3438/CVE-2021-3438-Exploitables.md)
     * [CVE-2021-3438-TobiasS1402.md](./databases/2021/database/CVE-2021-3438/CVE-2021-3438-TobiasS1402.md)
   * [CVE-2021-3437](./databases/2021/database/CVE-2021-3437/README.md)
     * [CVE-2021-34371.jar-zwjjustdoit.md](./databases/2021/database/CVE-2021-3437/CVE-2021-34371.jar-zwjjustdoit.md)
