@@ -8114,6 +8114,7 @@
     * [Polkit-CVE-2021-3560-AssassinUKG.md](./databases/2021/database/CVE-2021-3560/Polkit-CVE-2021-3560-AssassinUKG.md)
     * [CVE-2021-3560-chenaotian.md](./databases/2021/database/CVE-2021-3560/CVE-2021-3560-chenaotian.md)
     * [CVE-2021-3560-innxrmxst.md](./databases/2021/database/CVE-2021-3560/CVE-2021-3560-innxrmxst.md)
+    * [CVE-2021-3560_PoC-iSTAR-Lab.md](./databases/2021/database/CVE-2021-3560/CVE-2021-3560_PoC-iSTAR-Lab.md)
     * [CVE-2021-3560-Polkit-DBus-f4T1H21.md](./databases/2021/database/CVE-2021-3560/CVE-2021-3560-Polkit-DBus-f4T1H21.md)
     * [CVE-2021-3560-Authentication-Agent-RicterZ.md](./databases/2021/database/CVE-2021-3560/CVE-2021-3560-Authentication-Agent-RicterZ.md)
     * [polkadots-swapravo.md](./databases/2021/database/CVE-2021-3560/polkadots-swapravo.md)
