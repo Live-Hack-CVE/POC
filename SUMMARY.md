@@ -8166,6 +8166,7 @@
     * [CVE-2021-3493-Senz4wa.md](./databases/2021/database/CVE-2021-3493/CVE-2021-3493-Senz4wa.md)
     * [CVE-2021-3493-puckiestyle.md](./databases/2021/database/CVE-2021-3493/CVE-2021-3493-puckiestyle.md)
     * [overlayFS-CVE-2021-3493-cerodah.md](./databases/2021/database/CVE-2021-3493/overlayFS-CVE-2021-3493-cerodah.md)
+    * [CVE-2021-3493-smallkill.md](./databases/2021/database/CVE-2021-3493/CVE-2021-3493-smallkill.md)
     * [OverlayFS-CVE-2021-3493-pmihsan.md](./databases/2021/database/CVE-2021-3493/OverlayFS-CVE-2021-3493-pmihsan.md)
     * [CVE-2021-3493-derek-turing.md](./databases/2021/database/CVE-2021-3493/CVE-2021-3493-derek-turing.md)
     * [OverlayFS-CVE-2021-3493-AmIAHuman.md](./databases/2021/database/CVE-2021-3493/OverlayFS-CVE-2021-3493-AmIAHuman.md)
