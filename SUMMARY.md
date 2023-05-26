@@ -22052,6 +22052,8 @@
     * [cve2005-3299-aforakjackson.md](./databases/2005/database/CVE-2005-3299/cve2005-3299-aforakjackson.md)
   * [CVE-2005-2428](./databases/2005/database/CVE-2005-2428/README.md)
     * [CVE-2005-2428-IBM-Lotus-Domino-R8-Password-Hash-Extraction-Exploit-schwankner.md](./databases/2005/database/CVE-2005-2428/CVE-2005-2428-IBM-Lotus-Domino-R8-Password-Hash-Extraction-Exploit-schwankner.md)
+  * [CVE-2005-2023](./databases/2005/database/CVE-2005-2023/README.md)
+    * [CVE-2023-20052-nokn0wthing.md](./databases/2005/database/CVE-2005-2023/CVE-2023-20052-nokn0wthing.md)
   * [CVE-2005-2019](./databases/2005/database/CVE-2005-2019/README.md)
     * [CVE-2019-20059-jra89.md](./databases/2005/database/CVE-2005-2019/CVE-2019-20059-jra89.md)
   * [CVE-2005-2005](./databases/2005/database/CVE-2005-2005/README.md)
