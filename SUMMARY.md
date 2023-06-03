@@ -4041,6 +4041,7 @@
     * [CVE-2022-26485-mistymntncop.md](./databases/2022/database/CVE-2022-2648/CVE-2022-26485-mistymntncop.md)
   * [CVE-2022-2639](./databases/2022/database/CVE-2022-2639/README.md)
     * [Detection-and-Mitigation-for-CVE-2022-2639-EkamSinghWalia.md](./databases/2022/database/CVE-2022-2639/Detection-and-Mitigation-for-CVE-2022-2639-EkamSinghWalia.md)
+    * [CVE-2022-2639-PipeVersion-bb33bb.md](./databases/2022/database/CVE-2022-2639/CVE-2022-2639-PipeVersion-bb33bb.md)
     * [CVE-2022-2639-PipeVersion-avboy1337.md](./databases/2022/database/CVE-2022-2639/CVE-2022-2639-PipeVersion-avboy1337.md)
   * [CVE-2022-2631](./databases/2022/database/CVE-2022-2631/README.md)
     * [Watchguard-RCE-POC-CVE-2022-26318-h3llk4t3.md](./databases/2022/database/CVE-2022-2631/Watchguard-RCE-POC-CVE-2022-26318-h3llk4t3.md)
