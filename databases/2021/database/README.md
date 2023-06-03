@@ -974,3 +974,5 @@
 * [CVE-2021-41091](https://www.alice-snow.ru/2021/database/cve-2021-41091)
 * [CVE-2021-46703](https://www.alice-snow.ru/2021/database/cve-2021-46703)
 * [CVE-2021-26088](https://www.alice-snow.ru/2021/database/cve-2021-26088)
+* [CVE-2021-44186](https://www.alice-snow.ru/2021/database/cve-2021-44186)
+* [CVE-2021-33690](https://www.alice-snow.ru/2021/database/cve-2021-33690)
