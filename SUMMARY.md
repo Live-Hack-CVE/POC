@@ -6057,6 +6057,7 @@
     * [cve-2021-42013-Vulnmachines.md](./databases/2021/database/CVE-2021-42013/cve-2021-42013-Vulnmachines.md)
     * [cve-2021-42013-viliuspovilaika.md](./databases/2021/database/CVE-2021-42013/cve-2021-42013-viliuspovilaika.md)
     * [Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution-blackn0te.md](./databases/2021/database/CVE-2021-42013/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution-blackn0te.md)
+    * [Apache-CVEs-0xGabe.md](./databases/2021/database/CVE-2021-42013/Apache-CVEs-0xGabe.md)
     * [CVE-2021-42013-mauricelambert.md](./databases/2021/database/CVE-2021-42013/CVE-2021-42013-mauricelambert.md)
     * [CVE-2021-42013-LAB-jas9reet.md](./databases/2021/database/CVE-2021-42013/CVE-2021-42013-LAB-jas9reet.md)
     * [cve-2021-42013-walnutsecurity.md](./databases/2021/database/CVE-2021-42013/cve-2021-42013-walnutsecurity.md)
