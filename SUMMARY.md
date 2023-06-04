@@ -589,6 +589,7 @@
     * [CVE-2023-2516-mnqazi.md](./databases/2023/database/CVE-2023-2516/CVE-2023-2516-mnqazi.md)
   * [CVE-2023-2513](./databases/2023/database/CVE-2023-2513/README.md)
     * [CVE-2023-25136-nhakobyan685.md](./databases/2023/database/CVE-2023-2513/CVE-2023-25136-nhakobyan685.md)
+    * [CVE-2023-25136_POC-axylisdead.md](./databases/2023/database/CVE-2023-2513/CVE-2023-25136_POC-axylisdead.md)
     * [CVE-2023-25136-ticofookfook.md](./databases/2023/database/CVE-2023-2513/CVE-2023-25136-ticofookfook.md)
     * [CVE-2023-25136-Christbowel.md](./databases/2023/database/CVE-2023-2513/CVE-2023-25136-Christbowel.md)
     * [CVE-2023-25136-adhikara13.md](./databases/2023/database/CVE-2023-2513/CVE-2023-25136-adhikara13.md)
