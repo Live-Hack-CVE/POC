@@ -101,6 +101,7 @@
     * [CVE-2023-29489.yaml-Mostafa-Elguerdawi.md](./databases/2023/database/CVE-2023-29489/CVE-2023-29489.yaml-Mostafa-Elguerdawi.md)
     * [Scanner-CVE-2023-29489-haxor1337x.md](./databases/2023/database/CVE-2023-29489/Scanner-CVE-2023-29489-haxor1337x.md)
     * [CVE-2023-29489-1337r0j4n.md](./databases/2023/database/CVE-2023-29489/CVE-2023-29489-1337r0j4n.md)
+    * [CVE-2023-29489-Abdullah7-ma.md](./databases/2023/database/CVE-2023-29489/CVE-2023-29489-Abdullah7-ma.md)
     * [EagleEye-whalebone7.md](./databases/2023/database/CVE-2023-29489/EagleEye-whalebone7.md)
     * [CVE-2023-29489-learnerboy88.md](./databases/2023/database/CVE-2023-29489/CVE-2023-29489-learnerboy88.md)
     * [cPanel-CVE-2023-29489-xKore123.md](./databases/2023/database/CVE-2023-29489/cPanel-CVE-2023-29489-xKore123.md)
