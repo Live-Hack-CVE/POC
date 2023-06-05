@@ -5615,6 +5615,7 @@
     * [scan4log4shell-hupe1980.md](./databases/2021/database/CVE-2021-45046/scan4log4shell-hupe1980.md)
     * [log4jshield-xsultan.md](./databases/2021/database/CVE-2021-45046/log4jshield-xsultan.md)
     * [Log4J-Simulation-Tool-TheInterception.md](./databases/2021/database/CVE-2021-45046/Log4J-Simulation-Tool-TheInterception.md)
+    * [Exchange-0-Day-BAdithyaHSCS.md](./databases/2021/database/CVE-2021-45046/Exchange-0-Day-BAdithyaHSCS.md)
     * [CVE-2021-44228-PoC-log4j-bypass-words-Puliczek.md](./databases/2021/database/CVE-2021-45046/CVE-2021-44228-PoC-log4j-bypass-words-Puliczek.md)
     * [Log4J-Mitigation-CVE-2021-44228--CVE-2021-45046--CVE-2021-45105--CVE-2021-44832-thedevappsecguy.md](./databases/2021/database/CVE-2021-45046/Log4J-Mitigation-CVE-2021-44228--CVE-2021-45046--CVE-2021-45105--CVE-2021-44832-thedevappsecguy.md)
     * [log4shell-NCSC-NL.md](./databases/2021/database/CVE-2021-45046/log4shell-NCSC-NL.md)
