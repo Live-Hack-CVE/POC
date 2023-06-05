@@ -575,6 +575,8 @@
   * [CVE-2023-20052](./databases/2023/database/CVE-2023-20052/README.md)
     * [CVE-2023-20052-nokn0wthing.md](./databases/2023/database/CVE-2023-20052/CVE-2023-20052-nokn0wthing.md)
     * [CVE-2023-25002-nokn0wthing.md](./databases/2023/database/CVE-2023-20052/CVE-2023-25002-nokn0wthing.md)
+  * [CVE-2023-3085](./databases/2023/database/CVE-2023-3085/README.md)
+    * [CVE-2023-30854-jmrcsnchz.md](./databases/2023/database/CVE-2023-3085/CVE-2023-30854-jmrcsnchz.md)
   * [CVE-2023-3083](./databases/2023/database/CVE-2023-3083/README.md)
     * [lblfixer_cve_2023_30839-drkbcn.md](./databases/2023/database/CVE-2023-3083/lblfixer_cve_2023_30839-drkbcn.md)
   * [CVE-2023-3021](./databases/2023/database/CVE-2023-3021/README.md)
