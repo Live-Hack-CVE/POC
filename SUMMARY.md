@@ -6048,6 +6048,7 @@
     * [CVE-2021-42013-TheLastVvV.md](./databases/2021/database/CVE-2021-42013/CVE-2021-42013-TheLastVvV.md)
     * [apache_2.4.50-hadrian3689.md](./databases/2021/database/CVE-2021-42013/apache_2.4.50-hadrian3689.md)
     * [Apache_Penetration_Tool-wangfly-me.md](./databases/2021/database/CVE-2021-42013/Apache_Penetration_Tool-wangfly-me.md)
+    * [LFI-RCE-Unauthenticated-Apache-2.4.49-2.4.50-sergiovks.md](./databases/2021/database/CVE-2021-42013/LFI-RCE-Unauthenticated-Apache-2.4.49-2.4.50-sergiovks.md)
     * [CVE-2021-42013-Apache-RCE-Poc-Exp-asaotomo.md](./databases/2021/database/CVE-2021-42013/CVE-2021-42013-Apache-RCE-Poc-Exp-asaotomo.md)
     * [CVE-2021-42013-robotsense1337.md](./databases/2021/database/CVE-2021-42013/CVE-2021-42013-robotsense1337.md)
     * [apachrot-im-hanzou.md](./databases/2021/database/CVE-2021-42013/apachrot-im-hanzou.md)
