@@ -24,6 +24,7 @@
     * [keepass_dump-z-jxy.md](./databases/2023/database/CVE-2023-32784/keepass_dump-z-jxy.md)
     * [keepass-password-dumper-vdohney.md](./databases/2023/database/CVE-2023-32784/keepass-password-dumper-vdohney.md)
     * [CVE-2023-32784-keepass-linux-CTM1.md](./databases/2023/database/CVE-2023-32784/CVE-2023-32784-keepass-linux-CTM1.md)
+    * [KeePass-dump-py-hau-zy.md](./databases/2023/database/CVE-2023-32784/KeePass-dump-py-hau-zy.md)
     * [cve-2023-32784-LeDocteurDesBits.md](./databases/2023/database/CVE-2023-32784/cve-2023-32784-LeDocteurDesBits.md)
     * [BruteForce-to-KeePass-und3sc0n0c1d0.md](./databases/2023/database/CVE-2023-32784/BruteForce-to-KeePass-und3sc0n0c1d0.md)
   * [CVE-2023-32243](./databases/2023/database/CVE-2023-32243/README.md)
