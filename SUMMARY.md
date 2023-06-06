@@ -217,6 +217,8 @@
   * [CVE-2023-28206](./databases/2023/database/CVE-2023-28206/README.md)
     * [CVE-2023-28206-ZZY3312.md](./databases/2023/database/CVE-2023-28206/CVE-2023-28206-ZZY3312.md)
     * [acceleratortroll-acceleratortroll.md](./databases/2023/database/CVE-2023-28206/acceleratortroll-acceleratortroll.md)
+  * [CVE-2023-28178](./databases/2023/database/CVE-2023-28178/README.md)
+    * [CVE-2023-28178-patch-MacCVEResearch.md](./databases/2023/database/CVE-2023-28178/CVE-2023-28178-patch-MacCVEResearch.md)
   * [CVE-2023-28121](./databases/2023/database/CVE-2023-28121/README.md)
     * [CVE-2023-28121-gbrsh.md](./databases/2023/database/CVE-2023-28121/CVE-2023-28121-gbrsh.md)
   * [CVE-2023-27842](./databases/2023/database/CVE-2023-27842/README.md)
