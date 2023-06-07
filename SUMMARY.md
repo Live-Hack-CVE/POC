@@ -2848,6 +2848,7 @@
     * [f5-waf-enforce-sig-Spring4Shell-irgoncalves.md](./databases/2022/database/CVE-2022-22965/f5-waf-enforce-sig-Spring4Shell-irgoncalves.md)
     * [spring4shell_behinder-4nth0ny1130.md](./databases/2022/database/CVE-2022-22965/spring4shell_behinder-4nth0ny1130.md)
     * [CVE-2022-22965-0xrobiul.md](./databases/2022/database/CVE-2022-22965/CVE-2022-22965-0xrobiul.md)
+    * [Spring4Shell-dbgee.md](./databases/2022/database/CVE-2022-22965/Spring4Shell-dbgee.md)
     * [Spring4Shell-POC-BobTheShoplifter.md](./databases/2022/database/CVE-2022-22965/Spring4Shell-POC-BobTheShoplifter.md)
     * [check-springshell-jschauma.md](./databases/2022/database/CVE-2022-22965/check-springshell-jschauma.md)
     * [CVE-2022-22965_Spring4Shell-LudovicPatho.md](./databases/2022/database/CVE-2022-22965/CVE-2022-22965_Spring4Shell-LudovicPatho.md)
