@@ -825,6 +825,7 @@
   * [CVE-2023-2243](./databases/2023/database/CVE-2023-2243/README.md)
     * [CVE-2023-22432-aeyesec.md](./databases/2023/database/CVE-2023-2243/CVE-2023-22432-aeyesec.md)
   * [CVE-2023-2197](./databases/2023/database/CVE-2023-2197/README.md)
+    * [CVE-2023-21971_Analysis-Avento.md](./databases/2023/database/CVE-2023-2197/CVE-2023-21971_Analysis-Avento.md)
     * [Feb2023-CVE-2021-21974-OSINT-n2x4.md](./databases/2023/database/CVE-2023-2197/Feb2023-CVE-2021-21974-OSINT-n2x4.md)
   * [CVE-2023-2182](./databases/2023/database/CVE-2023-2182/README.md)
     * [CVE-2023-21823-Elizarfish.md](./databases/2023/database/CVE-2023-2182/CVE-2023-21823-Elizarfish.md)
