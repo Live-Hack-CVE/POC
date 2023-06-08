@@ -162,6 +162,8 @@
     * [ms-word-zero-day-rce-poc-securitymike2310.md](./databases/2023/database/CVE-2023-29336/ms-word-zero-day-rce-poc-securitymike2310.md)
     * [wordpress-zero-day-exploit-poc-securitydan284.md](./databases/2023/database/CVE-2023-29336/wordpress-zero-day-exploit-poc-securitydan284.md)
     * [telegram-zero-day-rce-poc-securitymike2310.md](./databases/2023/database/CVE-2023-29336/telegram-zero-day-rce-poc-securitymike2310.md)
+  * [CVE-2023-29325](./databases/2023/database/CVE-2023-29325/README.md)
+    * [test-CVE-2023-29325-a-bazi.md](./databases/2023/database/CVE-2023-29325/test-CVE-2023-29325-a-bazi.md)
   * [CVE-2023-29324](./databases/2023/database/CVE-2023-29324/README.md)
     * [CVE-2023-29324_Patch_Deploy-OLeDouxEt.md](./databases/2023/database/CVE-2023-29324/CVE-2023-29324_Patch_Deploy-OLeDouxEt.md)
   * [CVE-2023-29084](./databases/2023/database/CVE-2023-29084/README.md)
