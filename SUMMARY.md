@@ -482,6 +482,8 @@
     * [CVE-2023-22432-aeyesec.md](./databases/2023/database/CVE-2023-22432/CVE-2023-22432-aeyesec.md)
   * [CVE-2023-21979](./databases/2023/database/CVE-2023-21979/README.md)
     * [CVE-2023-21839-4ra1n.md](./databases/2023/database/CVE-2023-21979/CVE-2023-21839-4ra1n.md)
+  * [CVE-2023-21971](./databases/2023/database/CVE-2023-21971/README.md)
+    * [CVE-2023-21971_Analysis-Avento.md](./databases/2023/database/CVE-2023-21971/CVE-2023-21971_Analysis-Avento.md)
   * [CVE-2023-21932](./databases/2023/database/CVE-2023-21932/README.md)
     * [whatsapp-zero-day-exploit-darthvander20.md](./databases/2023/database/CVE-2023-21932/whatsapp-zero-day-exploit-darthvander20.md)
     * [tightvnc-zeroday-exploit-auth-bypass-glencooper872.md](./databases/2023/database/CVE-2023-21932/tightvnc-zeroday-exploit-auth-bypass-glencooper872.md)
