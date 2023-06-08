@@ -402,6 +402,7 @@
     * [CVE-2023-23504-zeroc00I.md](./databases/2023/database/CVE-2023-23504/CVE-2023-23504-zeroc00I.md)
   * [CVE-2023-23488](./databases/2023/database/CVE-2023-23488/README.md)
     * [CVE-2023-23488-PoC-r3nt0n.md](./databases/2023/database/CVE-2023-23488/CVE-2023-23488-PoC-r3nt0n.md)
+    * [CVE-2023-23488-pmpro-2.8-cybfar.md](./databases/2023/database/CVE-2023-23488/CVE-2023-23488-pmpro-2.8-cybfar.md)
   * [CVE-2023-23397](./databases/2023/database/CVE-2023-23397/README.md)
     * [expl_outlook_cve_2023_23397_securiteinfo.yar-securiteinfo.md](./databases/2023/database/CVE-2023-23397/expl_outlook_cve_2023_23397_securiteinfo.yar-securiteinfo.md)
     * [CVE-2023-23397-alicangnll.md](./databases/2023/database/CVE-2023-23397/CVE-2023-23397-alicangnll.md)
