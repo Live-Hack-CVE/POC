@@ -1012,6 +1012,8 @@
     * [ml-CVE-2023-1177-hh-hunter.md](./databases/2023/database/CVE-2023-1177/ml-CVE-2023-1177-hh-hunter.md)
   * [CVE-2023-1112](./databases/2023/database/CVE-2023-1112/README.md)
     * [Drag-and-Drop-Multiple-File-Uploader-PRO-Path-Traversal-Nickguitar.md](./databases/2023/database/CVE-2023-1112/Drag-and-Drop-Multiple-File-Uploader-PRO-Path-Traversal-Nickguitar.md)
+  * [CVE-2023-1060](./databases/2023/database/CVE-2023-1060/README.md)
+    * [cve-2023-10608-PoC-b35363.md](./databases/2023/database/CVE-2023-1060/cve-2023-10608-PoC-b35363.md)
   * [CVE-2023-1022](./databases/2023/database/CVE-2023-1022/README.md)
     * [CVE-2023-27704-happy0717.md](./databases/2023/database/CVE-2023-1022/CVE-2023-27704-happy0717.md)
   * [CVE-2023-0861](./databases/2023/database/CVE-2023-0861/README.md)
