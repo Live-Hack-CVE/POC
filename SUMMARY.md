@@ -4,6 +4,7 @@
 
 * [Database](./databases/2023/database)
   * [CVE-2023-34362](./databases/2023/database/CVE-2023-34362/README.md)
+    * [CVE-2023-34362-nhjxn-hheeyywweellccoommee.md](./databases/2023/database/CVE-2023-34362/CVE-2023-34362-nhjxn-hheeyywweellccoommee.md)
     * [MOVEit_CVE-2023-34362_IOCs-deepinstinct.md](./databases/2023/database/CVE-2023-34362/MOVEit_CVE-2023-34362_IOCs-deepinstinct.md)
   * [CVE-2023-33829](./databases/2023/database/CVE-2023-33829/README.md)
     * [CVE-2023-33829-n3gox.md](./databases/2023/database/CVE-2023-33829/CVE-2023-33829-n3gox.md)
