@@ -5483,6 +5483,8 @@
     * [cve-2022-0441-SDragon1205.md](./databases/2022/database/CVE-2022-0441/cve-2022-0441-SDragon1205.md)
   * [CVE-2022-0440](./databases/2022/database/CVE-2022-0440/README.md)
     * [BUG_WEB-qerogram.md](./databases/2022/database/CVE-2022-0440/BUG_WEB-qerogram.md)
+  * [CVE-2022-0439](./databases/2022/database/CVE-2022-0439/README.md)
+    * [CVE-2022-0439-RandomRobbieBF.md](./databases/2022/database/CVE-2022-0439/CVE-2022-0439-RandomRobbieBF.md)
   * [CVE-2022-0435](./databases/2022/database/CVE-2022-0435/README.md)
     * [CVE-2022-0435-wlswotmd.md](./databases/2022/database/CVE-2022-0435/CVE-2022-0435-wlswotmd.md)
   * [CVE-2022-0420](./databases/2022/database/CVE-2022-0420/README.md)
