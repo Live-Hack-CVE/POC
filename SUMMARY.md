@@ -5947,6 +5947,7 @@
   * [CVE-2021-43657](./databases/2021/database/CVE-2021-43657/README.md)
     * [CVE-2021-43657-c0n5n3d.md](./databases/2021/database/CVE-2021-43657/CVE-2021-43657-c0n5n3d.md)
   * [CVE-2021-43617](./databases/2021/database/CVE-2021-43617/README.md)
+    * [CVE-2021-43617-Sybelle03.md](./databases/2021/database/CVE-2021-43617/CVE-2021-43617-Sybelle03.md)
     * [CVE-2021-43617-aweiiy.md](./databases/2021/database/CVE-2021-43617/CVE-2021-43617-aweiiy.md)
     * [CVE-2021-43617-kombat1.md](./databases/2021/database/CVE-2021-43617/CVE-2021-43617-kombat1.md)
   * [CVE-2021-43616](./databases/2021/database/CVE-2021-43616/README.md)
