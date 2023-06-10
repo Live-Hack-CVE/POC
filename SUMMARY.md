@@ -3767,6 +3767,8 @@
     * [Airties-CVE-2022-38789-ProxyStaffy.md](./databases/2022/database/CVE-2022-3878/Airties-CVE-2022-38789-ProxyStaffy.md)
   * [CVE-2022-3876](./databases/2022/database/CVE-2022-3876/README.md)
     * [CVE-2022-38766-AUTOCRYPT-IVS-VnV.md](./databases/2022/database/CVE-2022-3876/CVE-2022-38766-AUTOCRYPT-IVS-VnV.md)
+  * [CVE-2022-3869](./databases/2022/database/CVE-2022-3869/README.md)
+    * [CVE-2022-38694_unlock_bootloader-TomKing062.md](./databases/2022/database/CVE-2022-3869/CVE-2022-38694_unlock_bootloader-TomKing062.md)
   * [CVE-2022-3860](./databases/2022/database/CVE-2022-3860/README.md)
     * [CVE-2022-38604-LucaBarile.md](./databases/2022/database/CVE-2022-3860/CVE-2022-38604-LucaBarile.md)
   * [CVE-2022-3857](./databases/2022/database/CVE-2022-3857/README.md)
