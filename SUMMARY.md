@@ -763,6 +763,7 @@
     * [CVE-2023-3009-mnqazi.md](./databases/2023/database/CVE-2023-2516/CVE-2023-3009-mnqazi.md)
     * [CVE-2023-2516-mnqazi.md](./databases/2023/database/CVE-2023-2516/CVE-2023-2516-mnqazi.md)
   * [CVE-2023-2515](./databases/2023/database/CVE-2023-2515/README.md)
+    * [CVE-2023-25157-0x2458bughunt.md](./databases/2023/database/CVE-2023-2515/CVE-2023-25157-0x2458bughunt.md)
     * [CVE-2023-25157-win3zz.md](./databases/2023/database/CVE-2023-2515/CVE-2023-25157-win3zz.md)
   * [CVE-2023-2513](./databases/2023/database/CVE-2023-2513/README.md)
     * [CVE-2023-25136-nhakobyan685.md](./databases/2023/database/CVE-2023-2513/CVE-2023-25136-nhakobyan685.md)
