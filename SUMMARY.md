@@ -683,6 +683,8 @@
     * [CVE-2023-29007-ethiack.md](./databases/2023/database/CVE-2023-2900/CVE-2023-29007-ethiack.md)
     * [CVE-2023-29007_win-version-x-Defender.md](./databases/2023/database/CVE-2023-2900/CVE-2023-29007_win-version-x-Defender.md)
     * [CVE-2023-29007-omespino.md](./databases/2023/database/CVE-2023-2900/CVE-2023-29007-omespino.md)
+  * [CVE-2023-2868](./databases/2023/database/CVE-2023-2868/README.md)
+    * [CVE-2023-2868-lchvp-hheeyywweellccoommee.md](./databases/2023/database/CVE-2023-2868/CVE-2023-2868-lchvp-hheeyywweellccoommee.md)
   * [CVE-2023-2859](./databases/2023/database/CVE-2023-2859/README.md)
     * [CVE-2023-2859-mnqazi.md](./databases/2023/database/CVE-2023-2859/CVE-2023-2859-mnqazi.md)
   * [CVE-2023-2844](./databases/2023/database/CVE-2023-2844/README.md)
