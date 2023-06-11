@@ -931,6 +931,7 @@
   * [CVE-2023-2033](./databases/2023/database/CVE-2023-2033/README.md)
     * [CVE-2023-2033-analysis-gretchenfrage.md](./databases/2023/database/CVE-2023-2033/CVE-2023-2033-analysis-gretchenfrage.md)
     * [CVE-2023-2033-Analysis-sandumjacob.md](./databases/2023/database/CVE-2023-2033/CVE-2023-2033-Analysis-sandumjacob.md)
+    * [CVE-2023-2033-WalccDev.md](./databases/2023/database/CVE-2023-2033/CVE-2023-2033-WalccDev.md)
     * [CVE-2023-2033-insoxin.md](./databases/2023/database/CVE-2023-2033/CVE-2023-2033-insoxin.md)
   * [CVE-2023-2023](./databases/2023/database/CVE-2023-2023/README.md)
     * [CVE-2023-23638-X1r0z.md](./databases/2023/database/CVE-2023-2023/CVE-2023-23638-X1r0z.md)
