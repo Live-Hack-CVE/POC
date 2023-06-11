@@ -6332,6 +6332,8 @@
     * [CVE-2021-41728-whoissecure.md](./databases/2021/database/CVE-2021-41728/CVE-2021-41728-whoissecure.md)
   * [CVE-2021-41653](./databases/2021/database/CVE-2021-41653/README.md)
     * [CVE-2021-41653-likeww.md](./databases/2021/database/CVE-2021-41653/CVE-2021-41653-likeww.md)
+  * [CVE-2021-41652](./databases/2021/database/CVE-2021-41652/README.md)
+    * [cve-2021-41652-deathflash1411.md](./databases/2021/database/CVE-2021-41652/cve-2021-41652-deathflash1411.md)
   * [CVE-2021-41651](./databases/2021/database/CVE-2021-41651/README.md)
     * [CVE-2021-41651-MobiusBinary.md](./databases/2021/database/CVE-2021-41651/CVE-2021-41651-MobiusBinary.md)
   * [CVE-2021-41649](./databases/2021/database/CVE-2021-41649/README.md)
