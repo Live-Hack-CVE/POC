@@ -179,6 +179,7 @@
     * [complex-vulnerabilities-MarcusGutierrez.md](./databases/2023/database/CVE-2023-29421/complex-vulnerabilities-MarcusGutierrez.md)
   * [CVE-2023-29336](./databases/2023/database/CVE-2023-29336/README.md)
     * [tinder-zero-day-exploit-securitydan284.md](./databases/2023/database/CVE-2023-29336/tinder-zero-day-exploit-securitydan284.md)
+    * [CVE-2023-29336-m-cetin.md](./databases/2023/database/CVE-2023-29336/CVE-2023-29336-m-cetin.md)
     * [ms-word-zero-day-rce-poc-securitymike2310.md](./databases/2023/database/CVE-2023-29336/ms-word-zero-day-rce-poc-securitymike2310.md)
     * [wordpress-zero-day-exploit-poc-securitydan284.md](./databases/2023/database/CVE-2023-29336/wordpress-zero-day-exploit-poc-securitydan284.md)
     * [telegram-zero-day-rce-poc-securitymike2310.md](./databases/2023/database/CVE-2023-29336/telegram-zero-day-rce-poc-securitymike2310.md)
