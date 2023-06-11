@@ -490,6 +490,7 @@
   * [CVE-2023-22809](./databases/2023/database/CVE-2023-22809/README.md)
     * [CVE-2023-22809-sudo-POC-CKevens.md](./databases/2023/database/CVE-2023-22809/CVE-2023-22809-sudo-POC-CKevens.md)
     * [ms-word-rce-0day-poc-2023-octosec45.md](./databases/2023/database/CVE-2023-22809/ms-word-rce-0day-poc-2023-octosec45.md)
+    * [patch_CVE-2023-22809-hello4r1end.md](./databases/2023/database/CVE-2023-22809/patch_CVE-2023-22809-hello4r1end.md)
     * [CVE-2023-22809-sudoedit-privesc-n3m1dotsys.md](./databases/2023/database/CVE-2023-22809/CVE-2023-22809-sudoedit-privesc-n3m1dotsys.md)
     * [CVE-2023-22809-M4fiaB0y.md](./databases/2023/database/CVE-2023-22809/CVE-2023-22809-M4fiaB0y.md)
   * [CVE-2023-22621](./databases/2023/database/CVE-2023-22621/README.md)
