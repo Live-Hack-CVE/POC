@@ -595,6 +595,8 @@
     * [discord-acropolypse-bot-maddiethecafebabe.md](./databases/2023/database/CVE-2023-21036/discord-acropolypse-bot-maddiethecafebabe.md)
     * [acropolypse-bot-schdork.md](./databases/2023/database/CVE-2023-21036/acropolypse-bot-schdork.md)
     * [AntiCropalypse-qixils.md](./databases/2023/database/CVE-2023-21036/AntiCropalypse-qixils.md)
+  * [CVE-2023-20963](./databases/2023/database/CVE-2023-20963/README.md)
+    * [BadParcel-Chal13W1zz.md](./databases/2023/database/CVE-2023-20963/BadParcel-Chal13W1zz.md)
   * [CVE-2023-20944](./databases/2023/database/CVE-2023-20944/README.md)
     * [frameworks_base_CVE-2023-20944-Trinadh465.md](./databases/2023/database/CVE-2023-20944/frameworks_base_CVE-2023-20944-Trinadh465.md)
     * [platform_frameworks_base_AOSP10_r33_CVE-2023-20944-hshivhare67.md](./databases/2023/database/CVE-2023-20944/platform_frameworks_base_AOSP10_r33_CVE-2023-20944-hshivhare67.md)
