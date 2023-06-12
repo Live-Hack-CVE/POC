@@ -1063,6 +1063,8 @@
     * [kata-cve-2020-2023-poc-ssst0n3.md](./databases/2023/database/CVE-2023-2020/kata-cve-2020-2023-poc-ssst0n3.md)
   * [CVE-2023-2017](./databases/2023/database/CVE-2023-2017/README.md)
     * [Maldoc-Analysis-Abdibimantara.md](./databases/2023/database/CVE-2023-2017/Maldoc-Analysis-Abdibimantara.md)
+  * [CVE-2023-2008](./databases/2023/database/CVE-2023-2008/README.md)
+    * [CVE-2023-2008-bluefrostsecurity.md](./databases/2023/database/CVE-2023-2008/CVE-2023-2008-bluefrostsecurity.md)
   * [CVE-2023-2002](./databases/2023/database/CVE-2023-2002/README.md)
     * [CVE-2023-2002-lrh2000.md](./databases/2023/database/CVE-2023-2002/CVE-2023-2002-lrh2000.md)
   * [CVE-2023-1767](./databases/2023/database/CVE-2023-1767/README.md)
