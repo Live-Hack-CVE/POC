@@ -777,6 +777,8 @@
   * [CVE-2023-2515](./databases/2023/database/CVE-2023-2515/README.md)
     * [CVE-2023-25157-0x2458bughunt.md](./databases/2023/database/CVE-2023-2515/CVE-2023-25157-0x2458bughunt.md)
     * [CVE-2023-25157-win3zz.md](./databases/2023/database/CVE-2023-2515/CVE-2023-25157-win3zz.md)
+    * [CVE-2023-25157-checker-7imbitz.md](./databases/2023/database/CVE-2023-2515/CVE-2023-25157-checker-7imbitz.md)
+    * [CVE-2023-25157-and-CVE-2023-25158-murataydemir.md](./databases/2023/database/CVE-2023-2515/CVE-2023-25157-and-CVE-2023-25158-murataydemir.md)
   * [CVE-2023-2513](./databases/2023/database/CVE-2023-2513/README.md)
     * [CVE-2023-25136-nhakobyan685.md](./databases/2023/database/CVE-2023-2513/CVE-2023-25136-nhakobyan685.md)
     * [CVE-2023-25136_POC-axylisdead.md](./databases/2023/database/CVE-2023-2513/CVE-2023-25136_POC-axylisdead.md)
