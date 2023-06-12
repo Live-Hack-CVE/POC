@@ -36,3 +36,4 @@
 * [CVE-2008-6827](https://www.alice-snow.ru/2008/database/cve-2008-6827)
 * [CVE-2008-6970](https://www.alice-snow.ru/2008/database/cve-2008-6970)
 * [CVE-2008-7220](https://www.alice-snow.ru/2008/database/cve-2008-7220)
+* [CVE-2008-2023](https://www.alice-snow.ru/2008/database/cve-2008-2023)
