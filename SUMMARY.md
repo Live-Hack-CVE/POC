@@ -559,6 +559,7 @@
     * [WordExp_CVE_2023_21716-maldev866.md](./databases/2023/database/CVE-2023-21716/WordExp_CVE_2023_21716-maldev866.md)
     * [CVE-2023-21716-Xnuvers007.md](./databases/2023/database/CVE-2023-21716/CVE-2023-21716-Xnuvers007.md)
     * [CVE-2023-21716-POC-CKevens.md](./databases/2023/database/CVE-2023-21716/CVE-2023-21716-POC-CKevens.md)
+    * [CVE-2023-21716-Lord-of-the-IoT.md](./databases/2023/database/CVE-2023-21716/CVE-2023-21716-Lord-of-the-IoT.md)
     * [CVE-2023-21716-JMousqueton.md](./databases/2023/database/CVE-2023-21716/CVE-2023-21716-JMousqueton.md)
     * [CVE-2023-21716_YARA_Results-mikesxrs.md](./databases/2023/database/CVE-2023-21716/CVE-2023-21716_YARA_Results-mikesxrs.md)
     * [CVE-2023-21716_exploit-hv0l.md](./databases/2023/database/CVE-2023-21716/CVE-2023-21716_exploit-hv0l.md)
