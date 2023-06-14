@@ -3936,6 +3936,8 @@
     * [CVE-2022-35914-xiaobaiakai.md](./databases/2022/database/CVE-2022-3591/CVE-2022-35914-xiaobaiakai.md)
     * [CVE-2022-35914-6E6L6F.md](./databases/2022/database/CVE-2022-3591/CVE-2022-35914-6E6L6F.md)
     * [CVE-2022-35914-poc-cosad3s.md](./databases/2022/database/CVE-2022-3591/CVE-2022-35914-poc-cosad3s.md)
+  * [CVE-2022-3590](./databases/2022/database/CVE-2022-3590/README.md)
+    * [CVE-2022-3590-WordPress-Vulnerability-Scanner-hxlxmjxbbxs.md](./databases/2022/database/CVE-2022-3590/CVE-2022-3590-WordPress-Vulnerability-Scanner-hxlxmjxbbxs.md)
   * [CVE-2022-3589](./databases/2022/database/CVE-2022-3589/README.md)
     * [CVE-2022-35899-angelopioamirante.md](./databases/2022/database/CVE-2022-3589/CVE-2022-35899-angelopioamirante.md)
   * [CVE-2022-3584](./databases/2022/database/CVE-2022-3584/README.md)
