@@ -758,6 +758,8 @@
   * [CVE-2023-2817](./databases/2023/database/CVE-2023-2817/README.md)
     * [CVE-2023-28178-patch-MacCVEResearch.md](./databases/2023/database/CVE-2023-2817/CVE-2023-28178-patch-MacCVEResearch.md)
   * [CVE-2023-2799](./databases/2023/database/CVE-2023-2799/README.md)
+    * [CVE-2023-27997-POC-rio128128.md](./databases/2023/database/CVE-2023-2799/CVE-2023-27997-POC-rio128128.md)
+    * [cve-2023-27997-Pik-sec.md](./databases/2023/database/CVE-2023-2799/cve-2023-27997-Pik-sec.md)
     * [CVE-2023-27997-POC-FortiOS-SSL-VPN-buffer-overflow-vulnerability-ssijz-hheeyywweellccoommee.md](./databases/2023/database/CVE-2023-2799/CVE-2023-27997-POC-FortiOS-SSL-VPN-buffer-overflow-vulnerability-ssijz-hheeyywweellccoommee.md)
   * [CVE-2023-2774](./databases/2023/database/CVE-2023-2774/README.md)
     * [CVE-2023-27742-G37SYS73M.md](./databases/2023/database/CVE-2023-2774/CVE-2023-27742-G37SYS73M.md)
