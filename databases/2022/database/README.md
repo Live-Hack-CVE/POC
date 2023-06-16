@@ -1120,3 +1120,5 @@
 * [CVE-2022-3590](https://www.alice-snow.ru/2022/database/cve-2022-3590)
 * [CVE-2022-2936](https://www.alice-snow.ru/2022/database/cve-2022-2936)
 * [CVE-2022-29361](https://www.alice-snow.ru/2022/database/cve-2022-29361)
+* [CVE-2022-4413](https://www.alice-snow.ru/2022/database/cve-2022-4413)
+* [CVE-2022-44136](https://www.alice-snow.ru/2022/database/cve-2022-44136)
