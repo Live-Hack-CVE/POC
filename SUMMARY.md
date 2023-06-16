@@ -5,6 +5,8 @@
 * [Database](./databases/2023/database)
   * [CVE-2023-34965](./databases/2023/database/CVE-2023-34965/README.md)
     * [CVE-2023-34965-AgentY0.md](./databases/2023/database/CVE-2023-34965/CVE-2023-34965-AgentY0.md)
+  * [CVE-2023-34852](./databases/2023/database/CVE-2023-34852/README.md)
+    * [CVE-2023-34852-funny-kill.md](./databases/2023/database/CVE-2023-34852/CVE-2023-34852-funny-kill.md)
   * [CVE-2023-34537](./databases/2023/database/CVE-2023-34537/README.md)
     * [CVE-2023-34537---XSS-reflected--found-in-HotelDruid-3.0.5-leekenghwa.md](./databases/2023/database/CVE-2023-34537/CVE-2023-34537---XSS-reflected--found-in-HotelDruid-3.0.5-leekenghwa.md)
   * [CVE-2023-34362](./databases/2023/database/CVE-2023-34362/README.md)
