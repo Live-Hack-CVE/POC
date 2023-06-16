@@ -1216,6 +1216,7 @@
     * [CVE-2023-0297-pandousa.md](./databases/2023/database/CVE-2023-0297/CVE-2023-0297-pandousa.md)
     * [CVE-2023-0297-gudetem.md](./databases/2023/database/CVE-2023-0297/CVE-2023-0297-gudetem.md)
     * [CVE-2023-0297-Small-ears.md](./databases/2023/database/CVE-2023-0297/CVE-2023-0297-Small-ears.md)
+    * [CVE-2023-0297-overgrowncarrot1.md](./databases/2023/database/CVE-2023-0297/CVE-2023-0297-overgrowncarrot1.md)
   * [CVE-2023-0286](./databases/2023/database/CVE-2023-0286/README.md)
     * [OPENSSL_1.1.11g_G3_CVE-2023-0286-nidhi7598.md](./databases/2023/database/CVE-2023-0286/OPENSSL_1.1.11g_G3_CVE-2023-0286-nidhi7598.md)
     * [OPENSSL_1.1.1g_G3_CVE-2023-0286-nidhi7598.md](./databases/2023/database/CVE-2023-0286/OPENSSL_1.1.1g_G3_CVE-2023-0286-nidhi7598.md)
