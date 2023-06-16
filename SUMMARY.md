@@ -58,6 +58,7 @@
     * [CVE-2023-33246-SuperZero.md](./databases/2023/database/CVE-2023-33246/CVE-2023-33246-SuperZero.md)
     * [CVE-2023-33246-rnkku-hheeyywweellccoommee.md](./databases/2023/database/CVE-2023-33246/CVE-2023-33246-rnkku-hheeyywweellccoommee.md)
     * [CVE-2023-33246-Copy-yizhimanpadewoniu.md](./databases/2023/database/CVE-2023-33246/CVE-2023-33246-Copy-yizhimanpadewoniu.md)
+    * [rocketMq_RCE-cr1me0.md](./databases/2023/database/CVE-2023-33246/rocketMq_RCE-cr1me0.md)
     * [CVE-2023-33246_RocketMQ_RCE_EXPLOIT-Malayke.md](./databases/2023/database/CVE-2023-33246/CVE-2023-33246_RocketMQ_RCE_EXPLOIT-Malayke.md)
     * [CVE-2023-33246-Serendipity-Lucky.md](./databases/2023/database/CVE-2023-33246/CVE-2023-33246-Serendipity-Lucky.md)
   * [CVE-2023-32784](./databases/2023/database/CVE-2023-32784/README.md)
