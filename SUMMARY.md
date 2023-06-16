@@ -1135,6 +1135,8 @@
     * [CVE-2023-2008-bluefrostsecurity.md](./databases/2023/database/CVE-2023-2008/CVE-2023-2008-bluefrostsecurity.md)
   * [CVE-2023-2002](./databases/2023/database/CVE-2023-2002/README.md)
     * [CVE-2023-2002-lrh2000.md](./databases/2023/database/CVE-2023-2002/CVE-2023-2002-lrh2000.md)
+  * [CVE-2023-1829](./databases/2023/database/CVE-2023-1829/README.md)
+    * [CVE2023-1829-lanleft.md](./databases/2023/database/CVE-2023-1829/CVE2023-1829-lanleft.md)
   * [CVE-2023-1767](./databases/2023/database/CVE-2023-1767/README.md)
     * [CVE-2023-1767-weizman.md](./databases/2023/database/CVE-2023-1767/CVE-2023-1767-weizman.md)
   * [CVE-2023-1671](./databases/2023/database/CVE-2023-1671/README.md)
