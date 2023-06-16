@@ -436,6 +436,7 @@
     * [CVE-2023-23752-Vulnerability-Scanner-aliestercrowleymv.md](./databases/2023/database/CVE-2023-23752/CVE-2023-23752-Vulnerability-Scanner-aliestercrowleymv.md)
     * [CVE-2023-23752-Pari-Malam.md](./databases/2023/database/CVE-2023-23752/CVE-2023-23752-Pari-Malam.md)
     * [CVE-2023-23752-keyuan15.md](./databases/2023/database/CVE-2023-23752/CVE-2023-23752-keyuan15.md)
+    * [CVE-2023-23752-Sweelg.md](./databases/2023/database/CVE-2023-23752/CVE-2023-23752-Sweelg.md)
     * [CVE-2023-23752-GhostToKnow.md](./databases/2023/database/CVE-2023-23752/CVE-2023-23752-GhostToKnow.md)
     * [CVE2023-23752-HaxorSec1945.md](./databases/2023/database/CVE-2023-23752/CVE2023-23752-HaxorSec1945.md)
     * [joomla_CVE-2023-23752-ibaiw.md](./databases/2023/database/CVE-2023-23752/joomla_CVE-2023-23752-ibaiw.md)
