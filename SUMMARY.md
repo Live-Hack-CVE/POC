@@ -5473,6 +5473,8 @@
     * [bob_kern_exp1-shuttterman.md](./databases/2022/database/CVE-2022-1015/bob_kern_exp1-shuttterman.md)
   * [CVE-2022-1012](./databases/2022/database/CVE-2022-1012/README.md)
     * [Linux-4.19.72_CVE-2022-1012-nanopathi.md](./databases/2022/database/CVE-2022-1012/Linux-4.19.72_CVE-2022-1012-nanopathi.md)
+  * [CVE-2022-1011](./databases/2022/database/CVE-2022-1011/README.md)
+    * [CVE-2022-1011-xkaneiki.md](./databases/2022/database/CVE-2022-1011/CVE-2022-1011-xkaneiki.md)
   * [CVE-2022-1008](./databases/2022/database/CVE-2022-1008/README.md)
     * [CVE-2022-10086-TEST--Gaphuang.md](./databases/2022/database/CVE-2022-1008/CVE-2022-10086-TEST--Gaphuang.md)
   * [CVE-2022-0997](./databases/2022/database/CVE-2022-0997/README.md)
