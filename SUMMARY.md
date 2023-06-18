@@ -136,6 +136,7 @@
     * [lblfixer_cve_2023_30839-drkbcn.md](./databases/2023/database/CVE-2023-30839/lblfixer_cve_2023_30839-drkbcn.md)
   * [CVE-2023-30777](./databases/2023/database/CVE-2023-30777/README.md)
     * [tinder-zero-day-exploit-securitydan284.md](./databases/2023/database/CVE-2023-30777/tinder-zero-day-exploit-securitydan284.md)
+    * [CVE-2023-30777-Alucard0x1.md](./databases/2023/database/CVE-2023-30777/CVE-2023-30777-Alucard0x1.md)
     * [ms-word-zero-day-rce-poc-securitymike2310.md](./databases/2023/database/CVE-2023-30777/ms-word-zero-day-rce-poc-securitymike2310.md)
     * [wordpress-zero-day-exploit-poc-securitydan284.md](./databases/2023/database/CVE-2023-30777/wordpress-zero-day-exploit-poc-securitydan284.md)
     * [telegram-zero-day-rce-poc-securitymike2310.md](./databases/2023/database/CVE-2023-30777/telegram-zero-day-rce-poc-securitymike2310.md)
