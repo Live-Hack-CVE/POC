@@ -1092,6 +1092,7 @@
     * [Apache-Dubbo-CVE-2023-23638-exp-YYHYlh.md](./databases/2023/database/CVE-2023-2023/Apache-Dubbo-CVE-2023-23638-exp-YYHYlh.md)
     * [parallels-plist-escape-kn32.md](./databases/2023/database/CVE-2023-2023/parallels-plist-escape-kn32.md)
     * [CVE-2023-21742-ohnonoyesyes.md](./databases/2023/database/CVE-2023-2023/CVE-2023-21742-ohnonoyesyes.md)
+    * [CVE-2023-34960-Aituglo.md](./databases/2023/database/CVE-2023-2023/CVE-2023-34960-Aituglo.md)
     * [CVE-2023-33246-SuperZero.md](./databases/2023/database/CVE-2023-2023/CVE-2023-33246-SuperZero.md)
     * [CVE-2023-23397_EXPLOIT-BillSkiCO.md](./databases/2023/database/CVE-2023-2023/CVE-2023-23397_EXPLOIT-BillSkiCO.md)
     * [CVE-2023-1671-POC-W01fh4cker.md](./databases/2023/database/CVE-2023-2023/CVE-2023-1671-POC-W01fh4cker.md)
