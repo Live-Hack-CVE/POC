@@ -1495,6 +1495,7 @@
     * [CVE-2022-44268-ImageMagick-Vulnerable-Docker-Environment-y1nglamore.md](./databases/2022/database/CVE-2022-44268/CVE-2022-44268-ImageMagick-Vulnerable-Docker-Environment-y1nglamore.md)
     * [CVE-2022-44268-voidz0r.md](./databases/2022/database/CVE-2022-44268/CVE-2022-44268-voidz0r.md)
   * [CVE-2022-44183](./databases/2022/database/CVE-2022-44183/README.md)
+    * [CVE-2022-44183-flagqaz.md](./databases/2022/database/CVE-2022-44183/CVE-2022-44183-flagqaz.md)
     * [CVE-2022-44183-FuHaoPing.md](./databases/2022/database/CVE-2022-44183/CVE-2022-44183-FuHaoPing.md)
   * [CVE-2022-44149](./databases/2022/database/CVE-2022-44149/README.md)
     * [CVE-2022-44149-yerodin.md](./databases/2022/database/CVE-2022-44149/CVE-2022-44149-yerodin.md)
