@@ -1193,6 +1193,7 @@
   * [CVE-2023-1665](./databases/2023/database/CVE-2023-1665/README.md)
     * [CVE-2023-1665-0xsu3ks.md](./databases/2023/database/CVE-2023-1665/CVE-2023-1665-0xsu3ks.md)
   * [CVE-2023-1454](./databases/2023/database/CVE-2023-1454/README.md)
+    * [CVE-2023-1454-Jeecg-Boot-qurestSql-SQLvuln-Sweelg.md](./databases/2023/database/CVE-2023-1454/CVE-2023-1454-Jeecg-Boot-qurestSql-SQLvuln-Sweelg.md)
     * [CVE-2023-1454-BugFor-Pings.md](./databases/2023/database/CVE-2023-1454/CVE-2023-1454-BugFor-Pings.md)
     * [CVE-2023-1454-padbergpete47.md](./databases/2023/database/CVE-2023-1454/CVE-2023-1454-padbergpete47.md)
     * [CVE-2023-1454-gobysec.md](./databases/2023/database/CVE-2023-1454/CVE-2023-1454-gobysec.md)
