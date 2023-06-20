@@ -8480,6 +8480,7 @@
   * [CVE-2021-4045](./databases/2021/database/CVE-2021-4045/README.md)
     * [CVE-2021-4045-PoC-hacefresko.md](./databases/2021/database/CVE-2021-4045/CVE-2021-4045-PoC-hacefresko.md)
     * [CVE-2021-4045-1x019.md](./databases/2021/database/CVE-2021-4045/CVE-2021-4045-1x019.md)
+    * [CVE-2021-4045-onebytex.md](./databases/2021/database/CVE-2021-4045/CVE-2021-4045-onebytex.md)
   * [CVE-2021-4044](./databases/2021/database/CVE-2021-4044/README.md)
     * [CVE-2021-40444-Alexcot25051999.md](./databases/2021/database/CVE-2021-4044/CVE-2021-40444-Alexcot25051999.md)
     * [CVE-2021-40444_builders-aslitsecurity.md](./databases/2021/database/CVE-2021-4044/CVE-2021-40444_builders-aslitsecurity.md)
