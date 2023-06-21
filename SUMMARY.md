@@ -791,6 +791,8 @@
     * [CVE-2023-2859-mnqazi.md](./databases/2023/database/CVE-2023-2859/CVE-2023-2859-mnqazi.md)
   * [CVE-2023-2844](./databases/2023/database/CVE-2023-2844/README.md)
     * [lblfixer_cve_2023_28447-drkbcn.md](./databases/2023/database/CVE-2023-2844/lblfixer_cve_2023_28447-drkbcn.md)
+  * [CVE-2023-2833](./databases/2023/database/CVE-2023-2833/README.md)
+    * [CVE-2023-2833-Alucard0x1.md](./databases/2023/database/CVE-2023-2833/CVE-2023-2833-Alucard0x1.md)
   * [CVE-2023-2831](./databases/2023/database/CVE-2023-2831/README.md)
     * [cve-2023-28310-wh-gov.md](./databases/2023/database/CVE-2023-2831/cve-2023-28310-wh-gov.md)
   * [CVE-2023-2825](./databases/2023/database/CVE-2023-2825/README.md)
