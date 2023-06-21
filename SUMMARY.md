@@ -43,6 +43,8 @@
     * [CVE-2023-33617-Chocapikk.md](./databases/2023/database/CVE-2023-33617/CVE-2023-33617-Chocapikk.md)
   * [CVE-2023-33477](./databases/2023/database/CVE-2023-33477/README.md)
     * [CVE-2023-33477-Skr11lex.md](./databases/2023/database/CVE-2023-33477/CVE-2023-33477-Skr11lex.md)
+  * [CVE-2023-33476](./databases/2023/database/CVE-2023-33476/README.md)
+    * [cve-2023-33476-mellow-hype.md](./databases/2023/database/CVE-2023-33476/cve-2023-33476-mellow-hype.md)
   * [CVE-2023-33410](./databases/2023/database/CVE-2023-33410/README.md)
     * [CVE-2023-33410-Thirukrishnan.md](./databases/2023/database/CVE-2023-33410/CVE-2023-33410-Thirukrishnan.md)
   * [CVE-2023-33409](./databases/2023/database/CVE-2023-33409/README.md)
