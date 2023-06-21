@@ -5604,6 +5604,7 @@
     * [CVE-2022-0847-Poc-4bhishek0.md](./databases/2022/database/CVE-2022-0847/CVE-2022-0847-Poc-4bhishek0.md)
     * [CVE-2022-0847-Container-Escape-greenhandatsjtu.md](./databases/2022/database/CVE-2022-0847/CVE-2022-0847-Container-Escape-greenhandatsjtu.md)
     * [Dirty-Pipe-edr1412.md](./databases/2022/database/CVE-2022-0847/Dirty-Pipe-edr1412.md)
+    * [dirty-pipe-poc-0xeremus.md](./databases/2022/database/CVE-2022-0847/dirty-pipe-poc-0xeremus.md)
     * [CVE-2022-0847-gyaansastra.md](./databases/2022/database/CVE-2022-0847/CVE-2022-0847-gyaansastra.md)
     * [CVE-2022-0847-c0ntempt.md](./databases/2022/database/CVE-2022-0847/CVE-2022-0847-c0ntempt.md)
     * [CVE-2022-0847-Udyz.md](./databases/2022/database/CVE-2022-0847/CVE-2022-0847-Udyz.md)
