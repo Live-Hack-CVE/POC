@@ -1009,6 +1009,7 @@
     * [patch_CVE-2023-22809-hello4r1end.md](./databases/2023/database/CVE-2023-2280/patch_CVE-2023-22809-hello4r1end.md)
     * [CVE-2023-22809-sudoedit-privesc-n3m1dotsys.md](./databases/2023/database/CVE-2023-2280/CVE-2023-22809-sudoedit-privesc-n3m1dotsys.md)
     * [CVE-2023-22809-M4fiaB0y.md](./databases/2023/database/CVE-2023-2280/CVE-2023-22809-M4fiaB0y.md)
+    * [CVE-2023-22809-Chan9Yan9.md](./databases/2023/database/CVE-2023-2280/CVE-2023-22809-Chan9Yan9.md)
   * [CVE-2023-2255](./databases/2023/database/CVE-2023-2255/README.md)
     * [CVE-2023-22551-viswagb.md](./databases/2023/database/CVE-2023-2255/CVE-2023-22551-viswagb.md)
   * [CVE-2023-2249](./databases/2023/database/CVE-2023-2249/README.md)
