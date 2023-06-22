@@ -3168,6 +3168,7 @@
     * [CVE-2022-22965-POC-whoami0622.md](./databases/2022/database/CVE-2022-22965/CVE-2022-22965-POC-whoami0622.md)
     * [springboot_CVE-2022-22965-wikiZ.md](./databases/2022/database/CVE-2022-22965/springboot_CVE-2022-22965-wikiZ.md)
     * [CVE-2022-22965-p1ckzi.md](./databases/2022/database/CVE-2022-22965/CVE-2022-22965-p1ckzi.md)
+    * [spring4shell-jakabakos.md](./databases/2022/database/CVE-2022-22965/spring4shell-jakabakos.md)
     * [CVE-2022-22965-helsecert.md](./databases/2022/database/CVE-2022-22965/CVE-2022-22965-helsecert.md)
     * [Spring4Shell-delyee.md](./databases/2022/database/CVE-2022-22965/Spring4Shell-delyee.md)
     * [Safer_PoC_CVE-2022-22965-colincowie.md](./databases/2022/database/CVE-2022-22965/Safer_PoC_CVE-2022-22965-colincowie.md)
