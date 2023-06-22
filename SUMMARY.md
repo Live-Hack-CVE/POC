@@ -55,6 +55,8 @@
     * [CVE-2023-33409-Thirukrishnan.md](./databases/2023/database/CVE-2023-33409/CVE-2023-33409-Thirukrishnan.md)
   * [CVE-2023-33408](./databases/2023/database/CVE-2023-33408/README.md)
     * [CVE-2023-33408-Thirukrishnan.md](./databases/2023/database/CVE-2023-33408/CVE-2023-33408-Thirukrishnan.md)
+  * [CVE-2023-33405](./databases/2023/database/CVE-2023-33405/README.md)
+    * [CVE-2023-33405-hacip.md](./databases/2023/database/CVE-2023-33405/CVE-2023-33405-hacip.md)
   * [CVE-2023-33381](./databases/2023/database/CVE-2023-33381/README.md)
     * [CVE-2023-33381-MitraStar-GPT-2741GNAC-duality084.md](./databases/2023/database/CVE-2023-33381/CVE-2023-33381-MitraStar-GPT-2741GNAC-duality084.md)
   * [CVE-2023-33253](./databases/2023/database/CVE-2023-33253/README.md)
