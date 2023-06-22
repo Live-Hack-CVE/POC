@@ -1138,6 +1138,7 @@
     * [CVE-2023-27350-horizon3ai.md](./databases/2023/database/CVE-2023-2023/CVE-2023-27350-horizon3ai.md)
     * [CVE-2023-23397_EXPLOIT_0DAY-sqrtZeroKnowledge.md](./databases/2023/database/CVE-2023-2023/CVE-2023-23397_EXPLOIT_0DAY-sqrtZeroKnowledge.md)
     * [CVE-2023-21608-hacksysteam.md](./databases/2023/database/CVE-2023-2023/CVE-2023-21608-hacksysteam.md)
+    * [CVE-2023-27997-check-BishopFox.md](./databases/2023/database/CVE-2023-2023/CVE-2023-27997-check-BishopFox.md)
     * [CVE-2023-21768-Malwareman007.md](./databases/2023/database/CVE-2023-2023/CVE-2023-21768-Malwareman007.md)
     * [Apache-Dubbo-CVE-2023-23638-exp-YYHYlh.md](./databases/2023/database/CVE-2023-2023/Apache-Dubbo-CVE-2023-23638-exp-YYHYlh.md)
     * [parallels-plist-escape-kn32.md](./databases/2023/database/CVE-2023-2023/parallels-plist-escape-kn32.md)
