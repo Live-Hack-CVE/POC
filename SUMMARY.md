@@ -8697,6 +8697,7 @@
     * [CVE-2021-4034-luckythandel.md](./databases/2021/database/CVE-2021-4034/CVE-2021-4034-luckythandel.md)
     * [CVE-2021-4034-Ankit-Ojha16.md](./databases/2021/database/CVE-2021-4034/CVE-2021-4034-Ankit-Ojha16.md)
     * [CVE-2021-4034-NoGCC-EstamelGG.md](./databases/2021/database/CVE-2021-4034/CVE-2021-4034-NoGCC-EstamelGG.md)
+    * [CVE-2021-4034-crypticdante.md](./databases/2021/database/CVE-2021-4034/CVE-2021-4034-crypticdante.md)
     * [cve-2021-4034-artemis-mike.md](./databases/2021/database/CVE-2021-4034/cve-2021-4034-artemis-mike.md)
     * [ez-pwnkit-OXDBXKXO.md](./databases/2021/database/CVE-2021-4034/ez-pwnkit-OXDBXKXO.md)
     * [CVE-2021-4034-LJP-TW.md](./databases/2021/database/CVE-2021-4034/CVE-2021-4034-LJP-TW.md)
