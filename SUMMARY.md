@@ -9257,6 +9257,8 @@
     * [CVE-2021-30461-daedalus.md](./databases/2021/database/CVE-2021-3046/CVE-2021-30461-daedalus.md)
     * [CVE-2021-30461-Vulnmachines.md](./databases/2021/database/CVE-2021-3046/CVE-2021-30461-Vulnmachines.md)
     * [CVE-2021-30461-Al1ex.md](./databases/2021/database/CVE-2021-3046/CVE-2021-30461-Al1ex.md)
+  * [CVE-2021-3036](./databases/2021/database/CVE-2021-3036/README.md)
+    * [CVE-2021-3064-0xhaggis.md](./databases/2021/database/CVE-2021-3036/CVE-2021-3064-0xhaggis.md)
   * [CVE-2021-3035](./databases/2021/database/CVE-2021-3035/README.md)
     * [CVE-2021-30357_CheckPoint_SNX_VPN_PoC-joaovarelas.md](./databases/2021/database/CVE-2021-3035/CVE-2021-30357_CheckPoint_SNX_VPN_PoC-joaovarelas.md)
   * [CVE-2021-3019](./databases/2021/database/CVE-2021-3019/README.md)
