@@ -5880,6 +5880,8 @@
     * [Bludit-3.13.1-TAGS-Field-Stored-Cross-Site-Scripting-XSS-plsanu.md](./databases/2021/database/CVE-2021-45744/Bludit-3.13.1-TAGS-Field-Stored-Cross-Site-Scripting-XSS-plsanu.md)
   * [CVE-2021-45485](./databases/2021/database/CVE-2021-45485/README.md)
     * [linux-4.19.72_CVE-2021-45485-Satheesh575555.md](./databases/2021/database/CVE-2021-45485/linux-4.19.72_CVE-2021-45485-Satheesh575555.md)
+  * [CVE-2021-45468](./databases/2021/database/CVE-2021-45468/README.md)
+    * [Imperva_gzip_bypass-0xhaggis.md](./databases/2021/database/CVE-2021-45468/Imperva_gzip_bypass-0xhaggis.md)
   * [CVE-2021-45416](./databases/2021/database/CVE-2021-45416/README.md)
     * [CVE-2021-45416-dnr6419.md](./databases/2021/database/CVE-2021-45416/CVE-2021-45416-dnr6419.md)
     * [CVE-2021-45416-86x.md](./databases/2021/database/CVE-2021-45416/CVE-2021-45416-86x.md)
