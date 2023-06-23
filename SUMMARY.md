@@ -9237,6 +9237,7 @@
     * [CVE-2021-31159-ricardojoserf.md](./databases/2021/database/CVE-2021-3115/CVE-2021-31159-ricardojoserf.md)
   * [CVE-2021-3064](./databases/2021/database/CVE-2021-3064/README.md)
     * [CVE-2021-30641-dja2TaqkGEEfA45.md](./databases/2021/database/CVE-2021-3064/CVE-2021-30641-dja2TaqkGEEfA45.md)
+    * [CVE-2021-3064-0xhaggis.md](./databases/2021/database/CVE-2021-3064/CVE-2021-3064-0xhaggis.md)
   * [CVE-2021-3063](./databases/2021/database/CVE-2021-3063/README.md)
     * [ChExp_CVE-2021-30632-maldev866.md](./databases/2021/database/CVE-2021-3063/ChExp_CVE-2021-30632-maldev866.md)
     * [CVE-2021-30632-CrackerCat.md](./databases/2021/database/CVE-2021-3063/CVE-2021-30632-CrackerCat.md)
