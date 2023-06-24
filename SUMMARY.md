@@ -835,6 +835,7 @@
     * [CVE-2023-27997-check-BishopFox.md](./databases/2023/database/CVE-2023-2799/CVE-2023-27997-check-BishopFox.md)
     * [CVE-2023-27997-POC-FortiOS-SSL-VPN-buffer-overflow-vulnerability-ssijz-hheeyywweellccoommee.md](./databases/2023/database/CVE-2023-2799/CVE-2023-27997-POC-FortiOS-SSL-VPN-buffer-overflow-vulnerability-ssijz-hheeyywweellccoommee.md)
     * [CVE-2023-27997-Check-imbas007.md](./databases/2023/database/CVE-2023-2799/CVE-2023-27997-Check-imbas007.md)
+    * [cve-2023-27997-puckiestyle.md](./databases/2023/database/CVE-2023-2799/cve-2023-27997-puckiestyle.md)
   * [CVE-2023-2784](./databases/2023/database/CVE-2023-2784/README.md)
     * [CVE-2023-27842-0xFTW.md](./databases/2023/database/CVE-2023-2784/CVE-2023-27842-0xFTW.md)
     * [CVE-2023-27842-tristao-marinho.md](./databases/2023/database/CVE-2023-2784/CVE-2023-27842-tristao-marinho.md)
