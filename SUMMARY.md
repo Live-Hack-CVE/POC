@@ -532,6 +532,7 @@
   * [CVE-2023-23333](./databases/2023/database/CVE-2023-23333/README.md)
     * [CVE-2023-23333-Mr-xn.md](./databases/2023/database/CVE-2023-23333/CVE-2023-23333-Mr-xn.md)
     * [CVE-2023-23333-Timorlover.md](./databases/2023/database/CVE-2023-23333/CVE-2023-23333-Timorlover.md)
+    * [PoC-SolarView-Compact-CVE-2023-23333-WhiteOwl-Pub.md](./databases/2023/database/CVE-2023-23333/PoC-SolarView-Compact-CVE-2023-23333-WhiteOwl-Pub.md)
   * [CVE-2023-23303](./databases/2023/database/CVE-2023-23303/README.md)
     * [hostapd_mirror-skulkarni-mv.md](./databases/2023/database/CVE-2023-23303/hostapd_mirror-skulkarni-mv.md)
   * [CVE-2023-23279](./databases/2023/database/CVE-2023-23279/README.md)
