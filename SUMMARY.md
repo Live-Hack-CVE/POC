@@ -3,6 +3,8 @@
 ## 2023
 
 * [Database](./databases/2023/database)
+  * [CVE-2023-35844](./databases/2023/database/CVE-2023-35844/README.md)
+    * [CVE-2023-35844-Szlein.md](./databases/2023/database/CVE-2023-35844/CVE-2023-35844-Szlein.md)
   * [CVE-2023-35840](./databases/2023/database/CVE-2023-35840/README.md)
     * [CVE-2023-35840-afine-com.md](./databases/2023/database/CVE-2023-35840/CVE-2023-35840-afine-com.md)
   * [CVE-2023-34965](./databases/2023/database/CVE-2023-34965/README.md)
