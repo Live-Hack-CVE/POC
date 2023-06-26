@@ -7765,6 +7765,7 @@
     * [CVE-2021-26084-Loneyers.md](./databases/2021/database/CVE-2021-26084/CVE-2021-26084-Loneyers.md)
     * [confluence-rce-poc-wolf1892.md](./databases/2021/database/CVE-2021-26084/confluence-rce-poc-wolf1892.md)
     * [westone-CVE-2021-26084-scanner-Osyanina.md](./databases/2021/database/CVE-2021-26084/westone-CVE-2021-26084-scanner-Osyanina.md)
+    * [CVE-2021-26084-patch--nizar0x1f.md](./databases/2021/database/CVE-2021-26084/CVE-2021-26084-patch--nizar0x1f.md)
     * [CVE-2021-26084-p0nymc1.md](./databases/2021/database/CVE-2021-26084/CVE-2021-26084-p0nymc1.md)
     * [CVE-2021-26084_PoC-ludy-dev.md](./databases/2021/database/CVE-2021-26084/CVE-2021-26084_PoC-ludy-dev.md)
     * [CVE-2021-26084-maskerTUI.md](./databases/2021/database/CVE-2021-26084/CVE-2021-26084-maskerTUI.md)
