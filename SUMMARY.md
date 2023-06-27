@@ -8772,6 +8772,7 @@
     * [POC-CVE-2021-4034-Yakumwamba.md](./databases/2021/database/CVE-2021-4034/POC-CVE-2021-4034-Yakumwamba.md)
     * [pwnkit-HellGateCorp.md](./databases/2021/database/CVE-2021-4034/pwnkit-HellGateCorp.md)
     * [berdav-CVE-2021-4034-TheJoyOfHacking.md](./databases/2021/database/CVE-2021-4034/berdav-CVE-2021-4034-TheJoyOfHacking.md)
+    * [pkexec-shell-executor-Naughty-SEC.md](./databases/2021/database/CVE-2021-4034/pkexec-shell-executor-Naughty-SEC.md)
     * [pwnkit-scanner-codiobert.md](./databases/2021/database/CVE-2021-4034/pwnkit-scanner-codiobert.md)
   * [CVE-2021-4030](./databases/2021/database/CVE-2021-4030/README.md)
     * [CVE-2021-40303-zecopro.md](./databases/2021/database/CVE-2021-4030/CVE-2021-40303-zecopro.md)
