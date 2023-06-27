@@ -5499,6 +5499,7 @@
     * [CVE-2022-1388-chesterblue.md](./databases/2022/database/CVE-2022-1388/CVE-2022-1388-chesterblue.md)
     * [CVE-2022-1388-RCE-checker-and-POC-Exploit-blind-intruder.md](./databases/2022/database/CVE-2022-1388/CVE-2022-1388-RCE-checker-and-POC-Exploit-blind-intruder.md)
     * [CVE-2022-1388-jbharucha05.md](./databases/2022/database/CVE-2022-1388/CVE-2022-1388-jbharucha05.md)
+    * [CVE-2022-1388-li8u99.md](./databases/2022/database/CVE-2022-1388/CVE-2022-1388-li8u99.md)
     * [CVE-2022-1388-Zeyad-Azima.md](./databases/2022/database/CVE-2022-1388/CVE-2022-1388-Zeyad-Azima.md)
     * [CVE-2022-1388-Al1ex.md](./databases/2022/database/CVE-2022-1388/CVE-2022-1388-Al1ex.md)
     * [CVE-2022-1388-amitlttwo.md](./databases/2022/database/CVE-2022-1388/CVE-2022-1388-amitlttwo.md)
