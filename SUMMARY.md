@@ -4108,6 +4108,7 @@
     * [CVE-2022-36946-Pwnzer0tt1.md](./databases/2022/database/CVE-2022-3694/CVE-2022-36946-Pwnzer0tt1.md)
   * [CVE-2022-3680](./databases/2022/database/CVE-2022-3680/README.md)
     * [CVE-2022-36804-Inplex-sys.md](./databases/2022/database/CVE-2022-3680/CVE-2022-36804-Inplex-sys.md)
+    * [CVE-2022-36804-ReverseShell-vj4336.md](./databases/2022/database/CVE-2022-3680/CVE-2022-36804-ReverseShell-vj4336.md)
     * [CVE-2022-36804-ReverseShell-Chocapikk.md](./databases/2022/database/CVE-2022-3680/CVE-2022-36804-ReverseShell-Chocapikk.md)
     * [CVE-2022-36804-khal4n1.md](./databases/2022/database/CVE-2022-3680/CVE-2022-36804-khal4n1.md)
     * [CVE-2022-36804-qiwentaidi.md](./databases/2022/database/CVE-2022-3680/CVE-2022-36804-qiwentaidi.md)
