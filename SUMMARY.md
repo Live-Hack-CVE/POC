@@ -1342,6 +1342,7 @@
     * [CVE-2023-0386-CKevens.md](./databases/2023/database/CVE-2023-0386/CVE-2023-0386-CKevens.md)
     * [CVE-2023-0386-chenaotian.md](./databases/2023/database/CVE-2023-0386/CVE-2023-0386-chenaotian.md)
     * [telegram-zero-day-rce-poc-securitymike2310.md](./databases/2023/database/CVE-2023-0386/telegram-zero-day-rce-poc-securitymike2310.md)
+    * [CVE-2023-0386-Fanxiaoyao66.md](./databases/2023/database/CVE-2023-0386/CVE-2023-0386-Fanxiaoyao66.md)
   * [CVE-2023-0315](./databases/2023/database/CVE-2023-0315/README.md)
     * [CVE-2023-0315-mhaskar.md](./databases/2023/database/CVE-2023-0315/CVE-2023-0315-mhaskar.md)
   * [CVE-2023-0297](./databases/2023/database/CVE-2023-0297/README.md)
