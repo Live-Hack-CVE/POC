@@ -361,6 +361,7 @@
   * [CVE-2023-27372](./databases/2023/database/CVE-2023-27372/README.md)
     * [CVE-2023-27372-Chocapikk.md](./databases/2023/database/CVE-2023-27372/CVE-2023-27372-Chocapikk.md)
     * [CVE-2023-27372-nuts7.md](./databases/2023/database/CVE-2023-27372/CVE-2023-27372-nuts7.md)
+    * [CVE-2023-27372-tucommenceapousser.md](./databases/2023/database/CVE-2023-27372/CVE-2023-27372-tucommenceapousser.md)
   * [CVE-2023-27350](./databases/2023/database/CVE-2023-27350/README.md)
     * [tinder-zero-day-exploit-securitydan284.md](./databases/2023/database/CVE-2023-27350/tinder-zero-day-exploit-securitydan284.md)
     * [CVE-2023-27350-Pari-Malam.md](./databases/2023/database/CVE-2023-27350/CVE-2023-27350-Pari-Malam.md)
