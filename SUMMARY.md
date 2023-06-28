@@ -2011,6 +2011,7 @@
     * [lazylist-cve-poc-yarocher.md](./databases/2022/database/CVE-2022-36944/lazylist-cve-poc-yarocher.md)
   * [CVE-2022-36804](./databases/2022/database/CVE-2022-36804/README.md)
     * [CVE-2022-36804-Inplex-sys.md](./databases/2022/database/CVE-2022-36804/CVE-2022-36804-Inplex-sys.md)
+    * [CVE-2022-36804-ReverseShell-vj4336.md](./databases/2022/database/CVE-2022-36804/CVE-2022-36804-ReverseShell-vj4336.md)
     * [CVE-2022-36804-ReverseShell-Chocapikk.md](./databases/2022/database/CVE-2022-36804/CVE-2022-36804-ReverseShell-Chocapikk.md)
     * [Capricornus-lolminerxmrig.md](./databases/2022/database/CVE-2022-36804/Capricornus-lolminerxmrig.md)
     * [CVE-2022-36804-khal4n1.md](./databases/2022/database/CVE-2022-36804/CVE-2022-36804-khal4n1.md)
