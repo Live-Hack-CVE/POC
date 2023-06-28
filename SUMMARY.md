@@ -1648,6 +1648,7 @@
     * [cve-2022-42889-text4shell-RSA-Demo.md](./databases/2022/database/CVE-2022-42889/cve-2022-42889-text4shell-RSA-Demo.md)
     * [text4shell-hotblac.md](./databases/2022/database/CVE-2022-42889/text4shell-hotblac.md)
     * [CVE-2022-42889-neerazz.md](./databases/2022/database/CVE-2022-42889/CVE-2022-42889-neerazz.md)
+    * [CVE-2022-42889-Text4Shell-POC-gustanini.md](./databases/2022/database/CVE-2022-42889/CVE-2022-42889-Text4Shell-POC-gustanini.md)
     * [CVE-2022-42889-Text4Shell-Exploit-POC-rhitikwadhvana.md](./databases/2022/database/CVE-2022-42889/CVE-2022-42889-Text4Shell-Exploit-POC-rhitikwadhvana.md)
     * [text4shell-cve-2022-42889-devenes.md](./databases/2022/database/CVE-2022-42889/text4shell-cve-2022-42889-devenes.md)
     * [CVE-2022-42889-west-wind.md](./databases/2022/database/CVE-2022-42889/CVE-2022-42889-west-wind.md)
