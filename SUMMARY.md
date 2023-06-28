@@ -23,6 +23,8 @@
     * [CVE-2023-34362-sfewer-r7.md](./databases/2023/database/CVE-2023-34362/CVE-2023-34362-sfewer-r7.md)
     * [MOVEit_CVE-2023-34362_IOCs-deepinstinct.md](./databases/2023/database/CVE-2023-34362/MOVEit_CVE-2023-34362_IOCs-deepinstinct.md)
     * [CVE-2023-34362-zcial-hheeyywweellccoommee.md](./databases/2023/database/CVE-2023-34362/CVE-2023-34362-zcial-hheeyywweellccoommee.md)
+  * [CVE-2023-34312](./databases/2023/database/CVE-2023-34312/README.md)
+    * [qq-tim-elevation-vi3t1.md](./databases/2023/database/CVE-2023-34312/qq-tim-elevation-vi3t1.md)
   * [CVE-2023-34096](./databases/2023/database/CVE-2023-34096/README.md)
     * [Thruk-CVE-2023-34096-galoget.md](./databases/2023/database/CVE-2023-34096/Thruk-CVE-2023-34096-galoget.md)
   * [CVE-2023-33977](./databases/2023/database/CVE-2023-33977/README.md)
