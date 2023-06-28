@@ -369,6 +369,7 @@
     * [ms-word-zero-day-rce-poc-securitymike2310.md](./databases/2023/database/CVE-2023-27350/ms-word-zero-day-rce-poc-securitymike2310.md)
     * [whatsapp-zero-day-exploit-darthvander20.md](./databases/2023/database/CVE-2023-27350/whatsapp-zero-day-exploit-darthvander20.md)
     * [CVE-2023-27350-Jenderal92.md](./databases/2023/database/CVE-2023-27350/CVE-2023-27350-Jenderal92.md)
+    * [CVE-2023-27350-POC-0ximan1337.md](./databases/2023/database/CVE-2023-27350/CVE-2023-27350-POC-0ximan1337.md)
     * [CVE-2023-27350-horizon3ai.md](./databases/2023/database/CVE-2023-27350/CVE-2023-27350-horizon3ai.md)
     * [wordpress-zero-day-exploit-poc-securitydan284.md](./databases/2023/database/CVE-2023-27350/wordpress-zero-day-exploit-poc-securitydan284.md)
     * [CVE-2023-27350-adhikara13.md](./databases/2023/database/CVE-2023-27350/CVE-2023-27350-adhikara13.md)
