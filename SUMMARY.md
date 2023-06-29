@@ -7586,6 +7586,7 @@
     * [CVE-2021-28079-g33xter.md](./databases/2021/database/CVE-2021-28079/CVE-2021-28079-g33xter.md)
   * [CVE-2021-27965](./databases/2021/database/CVE-2021-27965/README.md)
     * [CVE-2021-27965-Exploitables.md](./databases/2021/database/CVE-2021-27965/CVE-2021-27965-Exploitables.md)
+    * [CVE-2021-27965-expFlash.md](./databases/2021/database/CVE-2021-27965/CVE-2021-27965-expFlash.md)
     * [CVE-2021-27965-mathisvickie.md](./databases/2021/database/CVE-2021-27965/CVE-2021-27965-mathisvickie.md)
     * [CVE-2021-27965-Jeromeyoung.md](./databases/2021/database/CVE-2021-27965/CVE-2021-27965-Jeromeyoung.md)
   * [CVE-2021-27964](./databases/2021/database/CVE-2021-27964/README.md)
