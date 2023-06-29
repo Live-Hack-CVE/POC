@@ -7127,6 +7127,7 @@
     * [CVE-2021-36394-dinhbaouit.md](./databases/2021/database/CVE-2021-36394/CVE-2021-36394-dinhbaouit.md)
   * [CVE-2021-36356](./databases/2021/database/CVE-2021-36356/README.md)
     * [CVE-2021-35064-Chocapikk.md](./databases/2021/database/CVE-2021-36356/CVE-2021-35064-Chocapikk.md)
+    * [CVE-2021-35064-info4mationprivate8tools.md](./databases/2021/database/CVE-2021-36356/CVE-2021-35064-info4mationprivate8tools.md)
   * [CVE-2021-36276](./databases/2021/database/CVE-2021-36276/README.md)
     * [KDU-hfiref0x.md](./databases/2021/database/CVE-2021-36276/KDU-hfiref0x.md)
   * [CVE-2021-36260](./databases/2021/database/CVE-2021-36260/README.md)
