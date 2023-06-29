@@ -6125,6 +6125,7 @@
     * [BUG_WEB-qerogram.md](./databases/2021/database/CVE-2021-45003/BUG_WEB-qerogram.md)
   * [CVE-2021-44852](./databases/2021/database/CVE-2021-44852/README.md)
     * [CVE-2021-44852-Exploitables.md](./databases/2021/database/CVE-2021-44852/CVE-2021-44852-Exploitables.md)
+    * [CVE-2021-44852-expFlash.md](./databases/2021/database/CVE-2021-44852/CVE-2021-44852-expFlash.md)
   * [CVE-2021-44832](./databases/2021/database/CVE-2021-44832/README.md)
     * [log4j-filescan-andalik.md](./databases/2021/database/CVE-2021-44832/log4j-filescan-andalik.md)
     * [log4jscanwin-Qualys.md](./databases/2021/database/CVE-2021-44832/log4jscanwin-Qualys.md)
