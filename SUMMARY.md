@@ -9969,6 +9969,7 @@
     * [CVE-2021-1732-Pai-Po.md](./databases/2021/database/CVE-2021-1732/CVE-2021-1732-Pai-Po.md)
     * [CVE-2021-1732-r2bet.md](./databases/2021/database/CVE-2021-1732/CVE-2021-1732-r2bet.md)
     * [CVE-2021-1732-Exploit-KaLendsi.md](./databases/2021/database/CVE-2021-1732/CVE-2021-1732-Exploit-KaLendsi.md)
+    * [CVE-2021-1732-yangshifan-git.md](./databases/2021/database/CVE-2021-1732/CVE-2021-1732-yangshifan-git.md)
   * [CVE-2021-1699](./databases/2021/database/CVE-2021-1699/README.md)
     * [CVE-2021-1699-waleedassar.md](./databases/2021/database/CVE-2021-1699/CVE-2021-1699-waleedassar.md)
   * [CVE-2021-1675](./databases/2021/database/CVE-2021-1675/README.md)
