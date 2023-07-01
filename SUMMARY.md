@@ -902,6 +902,7 @@
     * [cve-2023-28310-wh-gov.md](./databases/2023/database/CVE-2023-2831/cve-2023-28310-wh-gov.md)
   * [CVE-2023-2825](./databases/2023/database/CVE-2023-2825/README.md)
     * [CVE-2023-2825-zaskh-hheeyywweellccoommee.md](./databases/2023/database/CVE-2023-2825/CVE-2023-2825-zaskh-hheeyywweellccoommee.md)
+    * [CVE-2023-28252-fortra.md](./databases/2023/database/CVE-2023-2825/CVE-2023-28252-fortra.md)
     * [CVE-2023-2825-yuimarudev.md](./databases/2023/database/CVE-2023-2825/CVE-2023-2825-yuimarudev.md)
     * [CVE-2023-2825-EmmanuelCruzL.md](./databases/2023/database/CVE-2023-2825/CVE-2023-2825-EmmanuelCruzL.md)
     * [CVE-2023-2825-Gitlab-Tornad0007.md](./databases/2023/database/CVE-2023-2825/CVE-2023-2825-Gitlab-Tornad0007.md)
