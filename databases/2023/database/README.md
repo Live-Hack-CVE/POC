@@ -283,3 +283,6 @@
 * [CVE-2023-0830](https://www.alice-snow.ru/2023/database/cve-2023-0830)
 * [CVE-2023-21766](https://www.alice-snow.ru/2023/database/cve-2023-21766)
 * [CVE-2023-28252](https://www.alice-snow.ru/2023/database/cve-2023-28252)
+* [CVE-2023-3458](https://www.alice-snow.ru/2023/database/cve-2023-3458)
+* [CVE-2023-34598](https://www.alice-snow.ru/2023/database/cve-2023-34598)
+* [CVE-2023-34599](https://www.alice-snow.ru/2023/database/cve-2023-34599)
