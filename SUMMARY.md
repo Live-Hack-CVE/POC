@@ -333,6 +333,8 @@
   * [CVE-2023-28303](./databases/2023/database/CVE-2023-28303/README.md)
     * [Acropalypse-Multi-Tool-frankthetank-music.md](./databases/2023/database/CVE-2023-28303/Acropalypse-Multi-Tool-frankthetank-music.md)
     * [AntiCropalypse-qixils.md](./databases/2023/database/CVE-2023-28303/AntiCropalypse-qixils.md)
+  * [CVE-2023-28252](./databases/2023/database/CVE-2023-28252/README.md)
+    * [CVE-2023-28252-fortra.md](./databases/2023/database/CVE-2023-28252/CVE-2023-28252-fortra.md)
   * [CVE-2023-28244](./databases/2023/database/CVE-2023-28244/README.md)
     * [cve-2023-28244-sk3w.md](./databases/2023/database/CVE-2023-28244/cve-2023-28244-sk3w.md)
   * [CVE-2023-28231](./databases/2023/database/CVE-2023-28231/README.md)
