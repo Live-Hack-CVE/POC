@@ -1378,6 +1378,8 @@
     * [CVE-2023-0861-POC-seifallahhomrani1.md](./databases/2023/database/CVE-2023-0861/CVE-2023-0861-POC-seifallahhomrani1.md)
   * [CVE-2023-0860](./databases/2023/database/CVE-2023-0860/README.md)
     * [CVE-2023-0860-0xsu3ks.md](./databases/2023/database/CVE-2023-0860/CVE-2023-0860-0xsu3ks.md)
+  * [CVE-2023-0830](./databases/2023/database/CVE-2023-0830/README.md)
+    * [CVE-2023-0830-xbz0n.md](./databases/2023/database/CVE-2023-0830/CVE-2023-0830-xbz0n.md)
   * [CVE-2023-0802](./databases/2023/database/CVE-2023-0802/README.md)
     * [Maldoc-Analysis-Abdibimantara.md](./databases/2023/database/CVE-2023-0802/Maldoc-Analysis-Abdibimantara.md)
   * [CVE-2023-0748](./databases/2023/database/CVE-2023-0748/README.md)
