@@ -1808,6 +1808,8 @@
     * [CVE-2022-42889-PoC-sunnyvale-it.md](./databases/2022/database/CVE-2022-42889/CVE-2022-42889-PoC-sunnyvale-it.md)
   * [CVE-2022-42864](./databases/2022/database/CVE-2022-42864/README.md)
     * [CVE-2022-42864-Muirey03.md](./databases/2022/database/CVE-2022-42864/CVE-2022-42864-Muirey03.md)
+  * [CVE-2022-42703](./databases/2022/database/CVE-2022-42703/README.md)
+    * [hbp-attack-demo-Squirre17.md](./databases/2022/database/CVE-2022-42703/hbp-attack-demo-Squirre17.md)
   * [CVE-2022-42475](./databases/2022/database/CVE-2022-42475/README.md)
     * [cve-2022-42475-Amir-hy.md](./databases/2022/database/CVE-2022-42475/cve-2022-42475-Amir-hy.md)
     * [cve-2022-42475-Fortinet-Mustafa1986.md](./databases/2022/database/CVE-2022-42475/cve-2022-42475-Fortinet-Mustafa1986.md)
