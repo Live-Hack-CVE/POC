@@ -3897,6 +3897,7 @@
     * [CVE-2022-45217-sudoninja-noob.md](./databases/2022/database/CVE-2022-4521/CVE-2022-45217-sudoninja-noob.md)
   * [CVE-2022-4510](./databases/2022/database/CVE-2022-4510/README.md)
     * [CVE-2022-4510-WalkingPath-adhikara13.md](./databases/2022/database/CVE-2022-4510/CVE-2022-4510-WalkingPath-adhikara13.md)
+    * [CVE-2022-4510-Imahian.md](./databases/2022/database/CVE-2022-4510/CVE-2022-4510-Imahian.md)
     * [CVE-2022-4510-electr0sm0g.md](./databases/2022/database/CVE-2022-4510/CVE-2022-4510-electr0sm0g.md)
   * [CVE-2022-4504](./databases/2022/database/CVE-2022-4504/README.md)
     * [CVE-2022-45047-hktalent.md](./databases/2022/database/CVE-2022-4504/CVE-2022-45047-hktalent.md)
