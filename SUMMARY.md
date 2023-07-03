@@ -7919,6 +7919,7 @@
     * [CVE-2021-26084-1ZRR4H.md](./databases/2021/database/CVE-2021-26084/CVE-2021-26084-1ZRR4H.md)
     * [CVE-2021-26084-Jun-5heng.md](./databases/2021/database/CVE-2021-26084/CVE-2021-26084-Jun-5heng.md)
     * [CVE-2021-26084-taythebot.md](./databases/2021/database/CVE-2021-26084/CVE-2021-26084-taythebot.md)
+    * [CVE-2021-26084-EXP-R0OtAdm1n.md](./databases/2021/database/CVE-2021-26084/CVE-2021-26084-EXP-R0OtAdm1n.md)
     * [CVE-2021-26084-antx-code.md](./databases/2021/database/CVE-2021-26084/CVE-2021-26084-antx-code.md)
     * [CVE-2021-26084_PoC-alt3kx.md](./databases/2021/database/CVE-2021-26084/CVE-2021-26084_PoC-alt3kx.md)
     * [CVE-2021-26084_GoPOC-bcdannyboy.md](./databases/2021/database/CVE-2021-26084/CVE-2021-26084_GoPOC-bcdannyboy.md)
