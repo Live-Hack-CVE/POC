@@ -137,6 +137,7 @@
   * [CVE-2023-32315](./databases/2023/database/CVE-2023-32315/README.md)
     * [CVE-2023-32315-Openfire-Bypass-tangxiaofeng7.md](./databases/2023/database/CVE-2023-32315/CVE-2023-32315-Openfire-Bypass-tangxiaofeng7.md)
     * [CVE-2023-32315-miko550.md](./databases/2023/database/CVE-2023-32315/CVE-2023-32315-miko550.md)
+    * [CVE-2023-32315-Pari-Malam.md](./databases/2023/database/CVE-2023-32315/CVE-2023-32315-Pari-Malam.md)
     * [CVE-2023-32315-ohnonoyesyes.md](./databases/2023/database/CVE-2023-32315/CVE-2023-32315-ohnonoyesyes.md)
     * [CVE-2023-32315exp-5rGJ5aCh5oCq5YW9.md](./databases/2023/database/CVE-2023-32315/CVE-2023-32315exp-5rGJ5aCh5oCq5YW9.md)
   * [CVE-2023-32243](./databases/2023/database/CVE-2023-32243/README.md)
