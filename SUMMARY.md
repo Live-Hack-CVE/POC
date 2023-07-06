@@ -1620,6 +1620,8 @@
     * [CVE-2022-46164-poc-stephenbradshaw.md](./databases/2022/database/CVE-2022-46164/CVE-2022-46164-poc-stephenbradshaw.md)
   * [CVE-2022-46087](./databases/2022/database/CVE-2022-46087/README.md)
     * [CVE-2022-46087-G37SYS73M.md](./databases/2022/database/CVE-2022-46087/CVE-2022-46087-G37SYS73M.md)
+  * [CVE-2022-46080](./databases/2022/database/CVE-2022-46080/README.md)
+    * [CVE-2022-46080-yerodin.md](./databases/2022/database/CVE-2022-46080/CVE-2022-46080-yerodin.md)
   * [CVE-2022-45988](./databases/2022/database/CVE-2022-45988/README.md)
     * [CVE-2022-45988-happy0717.md](./databases/2022/database/CVE-2022-45988/CVE-2022-45988-happy0717.md)
   * [CVE-2022-45934](./databases/2022/database/CVE-2022-45934/README.md)
