@@ -10050,6 +10050,7 @@
     * [Windows-Privilege-Escalation-CVE-2021-1732-exploitblizzard.md](./databases/2021/database/CVE-2021-1732/Windows-Privilege-Escalation-CVE-2021-1732-exploitblizzard.md)
     * [WindowsElevation-Al1ex.md](./databases/2021/database/CVE-2021-1732/WindowsElevation-Al1ex.md)
     * [CVE-2021-1732_exp-linuxdy.md](./databases/2021/database/CVE-2021-1732/CVE-2021-1732_exp-linuxdy.md)
+    * [CVE-2021-1732-4dp.md](./databases/2021/database/CVE-2021-1732/CVE-2021-1732-4dp.md)
     * [CVE-2021-1732-r1l4-i3pur1l4.md](./databases/2021/database/CVE-2021-1732/CVE-2021-1732-r1l4-i3pur1l4.md)
     * [CVE-2021-1732-Pai-Po.md](./databases/2021/database/CVE-2021-1732/CVE-2021-1732-Pai-Po.md)
     * [CVE-2021-1732-r2bet.md](./databases/2021/database/CVE-2021-1732/CVE-2021-1732-r2bet.md)
